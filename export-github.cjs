@@ -16,6 +16,12 @@ function hash(file) {
 const oldManifestPath = path.join(destination, 'sync-manifest.json');
 if (!sameDirectory && fs.existsSync(oldManifestPath)) {
   const previous = JSON.parse(fs.readFileSync(oldManifestPath, 'utf8'));
+  const workbook = 'content/网站内容管理.xlsx';
+  const recorded = previous.files[workbook];
+  if (recorded && fs.existsSync(path.join(destination, workbook)) && fs.existsSync(path.join(source, workbook)) && hash(path.join(destination, workbook)) !== recorded && hash(path.join(source, workbook)) === recorded) {
+    fs.copyFileSync(path.join(destination, workbook), path.join(source, workbook));
+    console.log('Merged the edited content workbook from the GitHub delivery folder.');
+  }
   const conflicts = Object.entries(previous.files).filter(([relative, recorded]) => {
     const exported = path.join(destination, relative);
     const original = path.join(source, relative);
@@ -34,11 +40,12 @@ function collect(relative) {
   if (stat.isDirectory()) {
     for (const name of fs.readdirSync(from)) {
       if (relative === 'dist' && ignoredLegacy.has(name)) continue;
+      if (name.startsWith('~$')) continue;
       collect(path.posix.join(relative, name));
     }
   } else if (stat.isFile()) files.push(relative);
 }
-for (const entry of ['dist', '.github', '.gitignore', 'README.md', 'package.json', 'build-pages.cjs', 'server.cjs', 'export-github.cjs', 'AGENTS.md', 'wrangler.json']) collect(entry);
+for (const entry of ['dist', 'content', 'scripts', '.github', '.gitignore', 'README.md', 'package.json', 'build-pages.cjs', 'server.cjs', 'export-github.cjs', 'AGENTS.md', 'wrangler.json']) collect(entry);
 for (const relative of files) {
   const target = path.join(destination, relative);
   fs.mkdirSync(path.dirname(target), { recursive: true });
