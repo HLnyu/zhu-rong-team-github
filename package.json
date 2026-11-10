@@ -1,0 +1,12 @@
+{
+  "name": "zhu-rong-team-website",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Bilingual website for the Zhu Rong research group at USTB",
+  "scripts": {
+    "build": "node build-pages.cjs",
+    "start": "node server.cjs",
+    "package": "node export-github.cjs",
+    "package:zip": "node export-github.cjs --zip"
+  }
+}
