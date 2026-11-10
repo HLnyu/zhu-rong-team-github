@@ -13,10 +13,18 @@ window.SITE_CMS = {
       },
       "photo": "assets/zhu-rong.jpg",
       "intro": {
-        "zh": "我国电炉高效洁净冶炼及二氧化碳炼钢应用领域的主要开拓者。主讲本科精品课程《炼钢学》30年，先后获得北京市师德榜样（先锋）、全国科技先进工作者、北京市优秀共产党员、宝钢优秀教师等称号。担任《钢铁》主编，《工业加热》《特殊钢》副主编，《IJMMM》顾问。获国家科技进步二等奖4项（三项第一），2020年“何梁何利”科学与技术进步奖，2017年首届全国创新争先奖。",
-        "en": "A leading pioneer in efficient, clean electric steelmaking and CO₂ applications in steel production in China. He has taught the undergraduate course Steelmaking for 30 years, receiving Beijing Model Teacher, National Advanced Science and Technology Worker, Outstanding Communist Party Member of Beijing and Baosteel Outstanding Teacher honors. He is Editor-in-Chief of Iron & Steel, Deputy Editor-in-Chief of Industrial Heating and Special Steel, and an adviser to IJMMM. His honors include four Second Prizes of the State Science and Technology Progress Award, ranked first in three; the 2020 Ho Leung Ho Lee Science and Technology Progress Award; and the inaugural National Innovation Award in 2017."
+        "zh": "中国工程院院士、北京科技大学终身教授和博士生导师，长期从事绿色低碳钢铁冶金教学与科研。研究涵盖电弧炉复合吹炼、钢液深度净化和CO₂资源化炼钢，推动技术工程示范与产业应用。获国家科技进步二等奖4项、何梁何利科学与技术进步奖和全国创新争先奖，长期主讲《炼钢学》。",
+        "en": "Academician of the Chinese Academy of Engineering, tenured professor and doctoral supervisor at USTB. His teaching and research cover combined-blowing electric arc furnaces, deep purification of molten steel and CO₂ utilization in steelmaking, with engineering demonstrations and industrial applications. Honors include four State Science and Technology Progress Second Prizes, the Ho Leung Ho Lee Science and Technology Progress Award and the National Innovation Award. He has taught Steelmaking for three decades."
       },
       "experience": [
+        {
+          "zh": "1979–1983，江西理工大学，本科",
+          "en": "1979–1983 · Jiangxi University of Science and Technology · Undergraduate studies"
+        },
+        {
+          "zh": "1983–1990，江西新余钢铁公司，工作",
+          "en": "1983–1990 · Xinyu Iron and Steel Company, Jiangxi · Employment"
+        },
         {
           "zh": "1990–1996，北京科技大学，硕士、博士",
           "en": "1990–1996 · USTB · Master’s and doctoral studies"
@@ -79,6 +87,56 @@ window.SITE_CMS = {
           "zh": "Chao Feng, Rong Zhu, et al. Effects of ambient temperature and powder gas ratio on jet characteristics of O₂ + CO₂ and CaO particles injected by a swirl-type oxygen lance nozzle. Powder Technology, 2021, 388: 537–553.",
           "en": "Chao Feng, Rong Zhu, et al. Effects of ambient temperature and powder gas ratio on jet characteristics of O₂ + CO₂ and CaO particles injected by a swirl-type oxygen lance nozzle. Powder Technology, 2021, 388: 537–553.",
           "url": "https://scholar.google.com/scholar?q=%22Effects%20of%20ambient%20temperature%20and%20powder%20gas%20ratio%20on%20jet%20characteristics%20of%20O%E2%82%82%20%2B%20CO%E2%82%82%20and%20CaO%20particles%20injected%20by%20a%20swirl-type%20oxygen%20lance%20nozzle%22"
+        },
+        {
+          "zh": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu. Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. ISIJ International, 2014, 54(10): 2248–2254.",
+          "en": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu. Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. ISIJ International, 2014, 54(10): 2248–2254.",
+          "url": "https://scholar.google.com/scholar?q=%22Desulfurization%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22"
+        },
+        {
+          "zh": "D. Kai, W. Long, L. Wenjuan, Z. Rong. Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud. Steel Research International, Published online; DOI: 10.1002/srin.201400181.",
+          "en": "D. Kai, W. Long, L. Wenjuan, Z. Rong. Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud. Steel Research International, Published online; DOI: 10.1002/srin.201400181.",
+          "url": "https://doi.org/10.1002/srin.201400181"
+        },
+        {
+          "zh": "Kai Dong, Rong Zhu, Wenjuan Liu. Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0045.",
+          "en": "Kai Dong, Rong Zhu, Wenjuan Liu. Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0045.",
+          "url": "https://doi.org/10.1515/htmp-2014-0045"
+        },
+        {
+          "zh": "Kai Dong, Rong Zhu, Wenjuan Liu. Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0076.",
+          "en": "Kai Dong, Rong Zhu, Wenjuan Liu. Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0076.",
+          "url": "https://doi.org/10.1515/htmp-2014-0076"
+        },
+        {
+          "zh": "董凯，朱荣，刘润藻. LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究. 北京科技大学学报, 2014, 36(S1): 226–229.",
+          "en": "董凯，朱荣，刘润藻. LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究. 北京科技大学学报, 2014, 36(S1): 226–229.",
+          "url": "https://scholar.google.com/scholar?q=%22LF%E7%82%89%E5%BA%95%E5%90%B9CO%E2%82%82%E6%B0%94%E4%BD%93%E5%AF%B9%E9%92%A2%E6%B6%B2%E8%B4%A8%E9%87%8F%E5%BD%B1%E5%93%8D%E5%8F%8A%E9%80%8F%E6%B0%94%E7%A0%96%E4%BE%B5%E8%9A%80%E7%9A%84%E7%A0%94%E7%A9%B6%22"
+        },
+        {
+          "zh": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong. Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. Applied Mechanics and Materials, 2014, 563: 57–61.",
+          "en": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong. Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. Applied Mechanics and Materials, 2014, 563: 57–61.",
+          "url": "https://scholar.google.com/scholar?q=%22Calculation%20on%20the%20Desulfurization%20Thermodynamic%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22"
+        },
+        {
+          "zh": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang. Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet. Metallurgical and Materials Transactions B, 2017, 48(3): 1807–1816.",
+          "en": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang. Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet. Metallurgical and Materials Transactions B, 2017, 48(3): 1807–1816.",
+          "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Shrouding%20Gas%20Parameters%20on%20Characteristics%20of%20Supersonic%20Coherent%20Jet%22"
+        },
+        {
+          "zh": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "en": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "url": "https://scholar.google.com/scholar?q=%22Behaviors%20of%20Supersonic%20Oxygen%20Multi-jets%20with%20Various%20Preheating%20Temperatures%22"
+        },
+        {
+          "zh": "赵飞，孙冬柏，朱荣，杨凌志. 不同伴随流条件下的集束射流流场特性. 中南大学学报（自然科学版）, 2018, (02): 282–289.",
+          "en": "赵飞，孙冬柏，朱荣，杨凌志. 不同伴随流条件下的集束射流流场特性. 中南大学学报（自然科学版）, 2018, (02): 282–289.",
+          "url": "https://scholar.google.com/scholar?q=%22%E4%B8%8D%E5%90%8C%E4%BC%B4%E9%9A%8F%E6%B5%81%E6%9D%A1%E4%BB%B6%E4%B8%8B%E7%9A%84%E9%9B%86%E6%9D%9F%E5%B0%84%E6%B5%81%E6%B5%81%E5%9C%BA%E7%89%B9%E6%80%A7%22"
+        },
+        {
+          "zh": "Guangsheng Wei, Rong Zhu, et al. Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles. Metallurgical and Materials Transactions B, 2020, 51: 1101–1112.",
+          "en": "Guangsheng Wei, Rong Zhu, et al. Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles. Metallurgical and Materials Transactions B, 2020, 51: 1101–1112.",
+          "url": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20Submerged%20CO%E2%82%82-O%E2%82%82%20Injection%20in%20Electric%20Arc%20Furnace%20Steelmaking%3A%20Modeling%20and%20Arrangement%20of%20Submerged%20nozzles%22"
         }
       ],
       "projects": [
@@ -118,19 +176,45 @@ window.SITE_CMS = {
         }
       ],
       "affiliation": {
-        "zh": "北京科技大学碳中和研究院终身教授，绿色低碳钢铁冶金全国重点实验室主任，中国金属学会会士。",
-        "en": "Lifetime Professor at USTB’s Institute for Carbon Neutrality; Director of the National Key Laboratory of Green and Low-Carbon Iron and Steel Metallurgy; Fellow of the Chinese Society for Metals."
+        "zh": "绿色低碳钢铁冶金全国重点实验室主任；北京科技大学冶金喷枪研究中心主任；高端金属熔炼及制备北京市重点实验室主任。",
+        "en": "Director of the National Key Laboratory of Green and Low-Carbon Iron and Steel Metallurgy; Director of USTB’s Metallurgical Lance Research Center; Director of the Beijing Key Laboratory of Advanced Metal Melting and Preparation."
       },
       "demo": false,
       "group": "导师",
       "office": {
-        "zh": "",
-        "en": ""
+        "zh": "冶金生态楼408",
+        "en": "Room 408, Metallurgy and Ecology Building"
       },
       "entryYear": "",
       "graduationYear": "",
       "patents": [],
-      "_order": 10
+      "_order": 10,
+      "websites": [
+        {
+          "url": "https://sklam.ustb.edu.cn/sysgk/gzzd/ys/6b39bf9e40a341b58e55af28d49d5a20.htm",
+          "label": {
+            "zh": "全国重点实验室个人主页",
+            "en": "National laboratory profile"
+          }
+        },
+        {
+          "url": "https://icn.ustb.edu.cn/szdw/zc/f7fb2b9fcf8f4d94aa8d58ab0221feea.htm",
+          "label": {
+            "zh": "碳中和研究院个人主页",
+            "en": "Institute for Carbon Neutrality profile"
+          }
+        },
+        {
+          "url": "https://metall.ustb.edu.cn/szdw/jsjs/fecf4b48482b42efa5aff2a43669a682.htm",
+          "label": {
+            "zh": "冶金学院个人主页",
+            "en": "School of Metallurgy profile"
+          }
+        }
+      ],
+      "source": "https://sklam.ustb.edu.cn/sysgk/gzzd/ys/6b39bf9e40a341b58e55af28d49d5a20.htm",
+      "phone": "010-62334879",
+      "email": "zhurong1201@126.com"
     },
     {
       "id": "dong",
@@ -144,8 +228,8 @@ window.SITE_CMS = {
       },
       "photo": "assets/dong-kai.jpg",
       "intro": {
-        "zh": "北京金属学会炼钢分会副主任，《特殊钢》期刊青年编委、《冶金能源》期刊编委会委员。",
-        "en": "Deputy Director of the Steelmaking Branch of the Beijing Society for Metals; Young Editorial Board Member of Special Steel; Editorial Board Member of Energy for Metallurgical Industry."
+        "zh": "北京科技大学教授、博士生导师，2012年获钢铁冶金博士学位，曾开展博士后及访问研究。围绕电弧炉与转炉炼钢、冶金节能环保以及过程自动控制与软件模型开展研究，将数值模拟、实验研究与工业工艺优化相结合。",
+        "en": "Professor and doctoral supervisor at USTB. He earned his PhD in ferrous metallurgy in 2012 and subsequently undertook postdoctoral and visiting research. His work combines numerical simulation, experiments and industrial process optimization in electric arc furnace and converter steelmaking, metallurgical energy efficiency, environmental protection, automatic control and software models."
       },
       "experience": [
         {
@@ -217,6 +301,56 @@ window.SITE_CMS = {
           "zh": "Meng L, Dong K. Thermal experiment study on the self-luminous properties of metallic iron during solid–liquid phase transition. Ironmaking & Steelmaking: Processes, Products and Applications, 2026, 53(2): 381–394.",
           "en": "Meng L, Dong K. Thermal experiment study on the self-luminous properties of metallic iron during solid–liquid phase transition. Ironmaking & Steelmaking: Processes, Products and Applications, 2026, 53(2): 381–394.",
           "url": "https://scholar.google.com/scholar?q=%22Thermal%20experiment%20study%20on%20the%20self-luminous%20properties%20of%20metallic%20iron%20during%20solid%E2%80%93liquid%20phase%20transition%22"
+        },
+        {
+          "zh": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu. Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. ISIJ International, 2014, 54(10): 2248–2254.",
+          "en": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu. Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. ISIJ International, 2014, 54(10): 2248–2254.",
+          "url": "https://scholar.google.com/scholar?q=%22Desulfurization%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22"
+        },
+        {
+          "zh": "D. Kai, W. Long, L. Wenjuan, Z. Rong. Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud. Steel Research International, Published online; DOI: 10.1002/srin.201400181.",
+          "en": "D. Kai, W. Long, L. Wenjuan, Z. Rong. Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud. Steel Research International, Published online; DOI: 10.1002/srin.201400181.",
+          "url": "https://doi.org/10.1002/srin.201400181"
+        },
+        {
+          "zh": "Kai Dong, Rong Zhu, Wenjuan Liu. Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0045.",
+          "en": "Kai Dong, Rong Zhu, Wenjuan Liu. Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0045.",
+          "url": "https://doi.org/10.1515/htmp-2014-0045"
+        },
+        {
+          "zh": "Kai Dong, Rong Zhu, Wenjuan Liu. Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0076.",
+          "en": "Kai Dong, Rong Zhu, Wenjuan Liu. Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0076.",
+          "url": "https://doi.org/10.1515/htmp-2014-0076"
+        },
+        {
+          "zh": "Dong Kai, Liu Wenjuan. Research on the Application of BOF cost control software system based on data Clustering and Feedback approach. Applied Mechanics and Materials, 2013, 422: 249–254.",
+          "en": "Dong Kai, Liu Wenjuan. Research on the Application of BOF cost control software system based on data Clustering and Feedback approach. Applied Mechanics and Materials, 2013, 422: 249–254.",
+          "url": "https://scholar.google.com/scholar?q=%22Research%20on%20the%20Application%20of%20BOF%20cost%20control%20software%20system%20based%20on%20data%20Clustering%20and%20Feedback%20approach%22"
+        },
+        {
+          "zh": "董凯，朱荣，刘润藻. LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究. 北京科技大学学报, 2014, 36(S1): 226–229.",
+          "en": "董凯，朱荣，刘润藻. LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究. 北京科技大学学报, 2014, 36(S1): 226–229.",
+          "url": "https://scholar.google.com/scholar?q=%22LF%E7%82%89%E5%BA%95%E5%90%B9CO%E2%82%82%E6%B0%94%E4%BD%93%E5%AF%B9%E9%92%A2%E6%B6%B2%E8%B4%A8%E9%87%8F%E5%BD%B1%E5%93%8D%E5%8F%8A%E9%80%8F%E6%B0%94%E7%A0%96%E4%BE%B5%E8%9A%80%E7%9A%84%E7%A0%94%E7%A9%B6%22"
+        },
+        {
+          "zh": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong. Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. Applied Mechanics and Materials, 2014, 563: 57–61.",
+          "en": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong. Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. Applied Mechanics and Materials, 2014, 563: 57–61.",
+          "url": "https://scholar.google.com/scholar?q=%22Calculation%20on%20the%20Desulfurization%20Thermodynamic%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22"
+        },
+        {
+          "zh": "董凯，刘润藻，王饶. 承钢钒铁炉底吹N₂水模型试验研究. 北京科技大学学报, 2014, 36(S1): 222–225.",
+          "en": "董凯，刘润藻，王饶. 承钢钒铁炉底吹N₂水模型试验研究. 北京科技大学学报, 2014, 36(S1): 222–225.",
+          "url": "https://scholar.google.com/scholar?q=%22%E6%89%BF%E9%92%A2%E9%92%92%E9%93%81%E7%82%89%E5%BA%95%E5%90%B9N%E2%82%82%E6%B0%B4%E6%A8%A1%E5%9E%8B%E8%AF%95%E9%AA%8C%E7%A0%94%E7%A9%B6%22"
+        },
+        {
+          "zh": "Dong Kai. Experimental Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique. MS&T 2014, 2014, Conference contribution.",
+          "en": "Dong Kai. Experimental Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique. MS&T 2014, 2014, Conference contribution.",
+          "url": "https://scholar.google.com/scholar?q=%22Experimental%20Study%20on%20Indirect%20Measuring%20Technology%20of%20EAF%20Steelmaking%20Decarburization%20Rate%20by%20Off-gas%20Analysis%20Technique%22"
+        },
+        {
+          "zh": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "en": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "url": "https://scholar.google.com/scholar?q=%22Behaviors%20of%20Supersonic%20Oxygen%20Multi-jets%20with%20Various%20Preheating%20Temperatures%22"
         }
       ],
       "projects": [
@@ -261,18 +395,49 @@ window.SITE_CMS = {
         {
           "zh": "教育部技术发明一等奖：基于烟尘减量与钢质洁净的CO₂炼钢技术",
           "en": "Ministry of Education Technological Invention Award, First Prize: CO₂ steelmaking technology for dust reduction and steel cleanliness"
+        },
+        {
+          "zh": "教育部技术发明二等奖：电炉炼钢集束供氧节能技术，2009",
+          "en": "教育部技术发明二等奖：电炉炼钢集束供氧节能技术，2009"
+        },
+        {
+          "zh": "山东省科技进步二等奖：电弧炉炼钢流程能量优化利用技术的研究与应用，2010",
+          "en": "山东省科技进步二等奖：电弧炉炼钢流程能量优化利用技术的研究与应用，2010"
         }
       ],
       "demo": false,
       "group": "导师",
+      "affiliation": {
+        "zh": "北京科技大学碳中和研究院、碳中和学院",
+        "en": "Institute and School of Carbon Neutrality, USTB"
+      },
       "office": {
-        "zh": "",
-        "en": ""
+        "zh": "冶金楼419",
+        "en": "Room 419, Metallurgy Building"
       },
       "entryYear": "",
       "graduationYear": "",
       "patents": [],
-      "_order": 20
+      "_order": 20,
+      "websites": [
+        {
+          "url": "https://icn.ustb.edu.cn/szdw/zc/4fcde26b307a4cde80fae8b954184f22.htm",
+          "label": {
+            "zh": "碳中和研究院个人主页",
+            "en": "Institute for Carbon Neutrality profile"
+          }
+        },
+        {
+          "url": "https://faculty.ustb.edu.cn/KaiDong/zh_CN/index.htm",
+          "label": {
+            "zh": "教师个人主页",
+            "en": "Faculty homepage"
+          }
+        }
+      ],
+      "source": "https://icn.ustb.edu.cn/szdw/zc/4fcde26b307a4cde80fae8b954184f22.htm",
+      "phone": "",
+      "email": "dongkai@ustb.edu.cn"
     },
     {
       "id": "wei",
@@ -286,8 +451,8 @@ window.SITE_CMS = {
       },
       "photo": "assets/wei-guangsheng.jpg",
       "intro": {
-        "zh": "国家自然科学基金优秀青年基金获得者，中国科协青年人才托举工程入选者。中国金属学会电冶金分会委员，任《炼钢》编委，cScience、《钢铁》等青年编委。",
-        "en": "Recipient of the NSFC Excellent Young Scientists Fund and selected for the China Association for Science and Technology’s Young Elite Scientists Sponsorship Program. Member of the Electrometallurgy Branch of the Chinese Society for Metals; Editorial Board Member of Steelmaking; Young Editorial Board Member of cScience and Iron & Steel."
+        "zh": "北京科技大学教授、博士生导师，国家自然科学基金优秀青年基金获得者，入选中国科协青年人才托举工程等人才计划。主要研究绿色低碳炼钢、再生金属熔体净化调控与CO₂资源化利用，承担教育部学科突破先导项目课题等科研任务。获国家科技进步二等奖、北京市科技进步一等奖和教育部技术发明一等奖等。",
+        "en": "Professor and doctoral supervisor at USTB, recipient of the NSFC Excellent Young Scientists Fund and the CAST Young Elite Scientists Sponsorship Program. His research focuses on low-carbon steelmaking, purification and control of recycled metal melts, and CO₂ utilization. He leads research including a Ministry of Education discipline-breakthrough project. Honors include a State Science and Technology Progress Second Prize, a Beijing Science and Technology Progress First Prize and a Ministry of Education Technological Invention First Prize."
       },
       "experience": [
         {
@@ -355,6 +520,11 @@ window.SITE_CMS = {
           "zh": "Yun Zhou, Guangsheng Wei*, et al. Theoretical analysis and experimental study of the application of CO₂ in the smelting of 410S stainless steel. Journal of CO₂ Utilization, 2022, 60: 102016.",
           "en": "Yun Zhou, Guangsheng Wei*, et al. Theoretical analysis and experimental study of the application of CO₂ in the smelting of 410S stainless steel. Journal of CO₂ Utilization, 2022, 60: 102016.",
           "url": "https://scholar.google.com/scholar?q=%22Theoretical%20analysis%20and%20experimental%20study%20of%20the%20application%20of%20CO%E2%82%82%20in%20the%20smelting%20of%20410S%20stainless%20steel%22"
+        },
+        {
+          "zh": "Guangsheng Wei, Rong Zhu, et al. Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles. Metallurgical and Materials Transactions B, 2020, 51: 1101–1112.",
+          "en": "Guangsheng Wei, Rong Zhu, et al. Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles. Metallurgical and Materials Transactions B, 2020, 51: 1101–1112.",
+          "url": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20Submerged%20CO%E2%82%82-O%E2%82%82%20Injection%20in%20Electric%20Arc%20Furnace%20Steelmaking%3A%20Modeling%20and%20Arrangement%20of%20Submerged%20nozzles%22"
         }
       ],
       "patents": [
@@ -430,12 +600,38 @@ window.SITE_CMS = {
       "demo": false,
       "group": "导师",
       "office": {
-        "zh": "",
-        "en": ""
+        "zh": "冶金楼418",
+        "en": "Room 418, Metallurgy Building"
       },
       "entryYear": "",
       "graduationYear": "",
-      "_order": 30
+      "_order": 30,
+      "websites": [
+        {
+          "url": "https://icn.ustb.edu.cn/szdw/zc/42f87eebf93742a3a1e63e64fb80a499.htm",
+          "label": {
+            "zh": "碳中和研究院个人主页",
+            "en": "Institute for Carbon Neutrality profile"
+          }
+        },
+        {
+          "url": "https://sklam.ustb.edu.cn/sysgk/gzzd/js/855a61b4024f47c0842d588c01cceea3.htm",
+          "label": {
+            "zh": "全国重点实验室个人主页",
+            "en": "National laboratory profile"
+          }
+        },
+        {
+          "url": "https://faculty.ustb.edu.cn/weiguangsheng/zh_CN/index.htm",
+          "label": {
+            "zh": "教师个人主页",
+            "en": "Faculty homepage"
+          }
+        }
+      ],
+      "source": "https://icn.ustb.edu.cn/szdw/zc/42f87eebf93742a3a1e63e64fb80a499.htm",
+      "phone": "",
+      "email": "weiguangsheng@ustb.edu.cn"
     },
     {
       "id": "feng",
@@ -448,8 +644,8 @@ window.SITE_CMS = {
         "en": "Associate Researcher · Master’s supervisor"
       },
       "intro": {
-        "zh": "中国冶金教育学会工程技术分会秘书，辽宁省第九批“百千万人才工程”万人层次人选，《钢铁》《EcoEnergy》等期刊青年编委。",
-        "en": "Secretary of the Engineering Technology Branch of the Chinese Society of Metallurgical Education; selected for the ten-thousand tier of Liaoning Province’s ninth Hundred–Thousand–Ten Thousand Talents Program; Young Editorial Board Member of Iron & Steel and EcoEnergy."
+        "zh": "北京科技大学副研究员、硕士生导师，曾任中钢集团鞍山热能研究院副总工程师。研究方向包括转炉和电弧炉低碳冶炼、钢铁工业CO₂捕集及资源化、冶金固废利用与关键部件表面强化。任中国冶金教育学会工程技术分会秘书及《钢铁》《EcoEnergy》等期刊青年编委。",
+        "en": "Associate researcher and master’s supervisor at USTB, formerly Deputy Chief Engineer at Sinosteel Anshan Research Institute of Thermo-Energy. His research covers low-carbon converter and electric arc furnace steelmaking, CO₂ capture and utilization, metallurgical solid-waste recovery and surface strengthening of critical components. He serves as secretary of the Engineering Technology Branch of the Chinese Society of Metallurgical Education and on youth editorial boards including Steel and EcoEnergy."
       },
       "experience": [
         {
@@ -614,13 +810,36 @@ window.SITE_CMS = {
       "photo": "assets/feng-chao.jpg",
       "demo": false,
       "group": "导师",
+      "affiliation": {
+        "zh": "北京科技大学碳中和研究院",
+        "en": "Institute for Carbon Neutrality, USTB"
+      },
       "office": {
-        "zh": "",
-        "en": ""
+        "zh": "冶金楼4层",
+        "en": "4th floor, Metallurgy Building"
       },
       "entryYear": "",
       "graduationYear": "",
-      "_order": 40
+      "_order": 40,
+      "websites": [
+        {
+          "url": "https://icn.ustb.edu.cn/szdw/zc/71d0fbddb75349dfa0b3b48332699d8d.htm",
+          "label": {
+            "zh": "碳中和研究院个人主页",
+            "en": "Institute for Carbon Neutrality profile"
+          }
+        },
+        {
+          "url": "https://ty9.ustb.edu.cn/publish/bjkjdxgyy/jgry/jgsz/dtzysyb/index.htm",
+          "label": {
+            "zh": "低碳智冶事业部联系方式",
+            "en": "Low-carbon metallurgy division contact"
+          }
+        }
+      ],
+      "source": "https://icn.ustb.edu.cn/szdw/zc/71d0fbddb75349dfa0b3b48332699d8d.htm",
+      "phone": "18810738082",
+      "email": "ustbfengchao@163.com"
     },
     {
       "id": "liu-fuhai",
@@ -634,47 +853,51 @@ window.SITE_CMS = {
       },
       "photo": "assets/liu-fuhai.jpg",
       "intro": {
-        "zh": "从事喷射冶金、转炉及电弧炉炼钢研究。",
-        "en": "Research on jet metallurgy, converter and electric arc furnace steelmaking."
+        "zh": "北京科技大学研究员，长期从事炼钢理论和工艺应用研究，重点关注冶金粉气喷射、智能控制及CO₂在精炼流程中的资源化利用。主持或承担国家自然科学基金、国家重点研发计划和科技重大专项等研究任务，开展喷枪与多相流模拟、底吹及精炼过程优化。任流体与材料相互作用教育部重点实验室秘书及相关期刊青年编委。",
+        "en": "Researcher at USTB working on steelmaking theory and process applications, with a focus on powder–gas injection, intelligent control and CO₂ utilization in refining. His work includes NSFC, national key R&D and major science and technology projects, covering lance design, multiphase-flow simulation, bottom blowing and refining optimization. He serves as secretary of the Ministry of Education Key Laboratory of Fluid and Material Interaction and on related youth editorial boards."
       },
       "experience": [
         {
-          "zh": "2006–2016，北京科技大学，本科、硕士及博士学习",
-          "en": "2006–2016 · USTB · Bachelor’s, master’s and doctoral studies"
+          "zh": "2006–2010，北京科技大学，冶金工程学士",
+          "en": "2006–2010 · USTB · BEng in Metallurgical Engineering"
         },
         {
-          "zh": "2017–2018，国家材料服役安全科学中心，博士后",
-          "en": "2017–2018 · NCMS · Postdoctoral researcher"
+          "zh": "2010–2011，北京科技大学，冶金工程硕士",
+          "en": "2010–2011 · USTB · Master’s studies in Metallurgical Engineering"
         },
         {
-          "zh": "2019–2020，国家材料服役安全科学中心，助理研究员",
-          "en": "2019–2020 · NCMS · Assistant Researcher"
+          "zh": "2011–2016，北京科技大学，冶金工程博士",
+          "en": "2011–2016 · USTB · PhD in Metallurgical Engineering"
         },
         {
-          "zh": "2020–2025，国家材料服役安全科学中心，副研究员",
-          "en": "2020–2025 · NCMS · Associate Researcher"
+          "zh": "2016–2019，北京科技大学，博士后",
+          "en": "2016–2019 · USTB · Postdoctoral researcher"
         },
         {
-          "zh": "2025–至今，国家材料服役安全科学中心，研究员",
-          "en": "2025–present · NCMS · Researcher"
+          "zh": "2019–2020，北京科技大学，助理研究员",
+          "en": "2019–2020 · USTB · Assistant researcher"
+        },
+        {
+          "zh": "2020–2025，北京科技大学，副研究员",
+          "en": "2020–2025 · USTB · Associate researcher"
+        },
+        {
+          "zh": "2025–至今，北京科技大学，研究员",
+          "en": "2025–present · USTB · Researcher"
         }
       ],
       "fields": [
         {
-          "zh": "转炉炼钢",
-          "en": "Converter steelmaking"
+          "zh": "冶金粉气喷射技术",
+          "en": "Metallurgical powder–gas injection"
         },
         {
-          "zh": "电弧炉炼钢",
-          "en": "Electric arc furnace steelmaking"
+          "zh": "冶金智能控制技术",
+          "en": "Intelligent metallurgical control"
         },
         {
-          "zh": "低碳喷射冶金技术",
-          "en": "Low-carbon jet metallurgy"
-        },
-        {
-          "zh": "材料/构件极端服役行为表征",
-          "en": "Extreme-service behavior of materials and components"
+          "zh": "精炼流程CO₂资源化利用",
+          "en": "CO₂ utilization in refining"
         }
       ],
       "students": {
@@ -691,26 +914,148 @@ window.SITE_CMS = {
           "zh": "Meng Linghui, Liu Fuhai, Zhu Rong, Dong Kai, Wei Guangsheng, Feng Chao. Effect of Oxygen Lance Structure on the Flow Field in the 100 t K-OBM Converter. ISIJ International, 2025, 65(8): 1133–1144.",
           "en": "Meng Linghui, Liu Fuhai, Zhu Rong, Dong Kai, Wei Guangsheng, Feng Chao. Effect of Oxygen Lance Structure on the Flow Field in the 100 t K-OBM Converter. ISIJ International, 2025, 65(8): 1133–1144.",
           "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Oxygen%20Lance%20Structure%20on%20the%20Flow%20Field%20in%20the%20100%20t%20K-OBM%20Converter%22"
+        },
+        {
+          "zh": "Computational Fluid Dynamics of Multiphase Behavior by Centre CaO–O₂ Mixed Injection Method in 100 t Converter. ISIJ International, 2026, 66: 66–76.",
+          "en": "Computational Fluid Dynamics of Multiphase Behavior by Centre CaO–O₂ Mixed Injection Method in 100 t Converter. ISIJ International, 2026, 66: 66–76.",
+          "url": "https://scholar.google.com/scholar?q=%22Computational%20Fluid%20Dynamics%20of%20Multiphase%20Behavior%20by%20Centre%20CaO%E2%80%93O%E2%82%82%20Mixed%20Injection%20Method%20in%20100%20t%20Converter%22"
+        },
+        {
+          "zh": "Simulation and Application of Top-blowing Lance with Various Inclination Angles in Decarburization Ladle Furnace. ISIJ International, 2025, 65: 392–403.",
+          "en": "Simulation and Application of Top-blowing Lance with Various Inclination Angles in Decarburization Ladle Furnace. ISIJ International, 2025, 65: 392–403.",
+          "url": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20Top-blowing%20Lance%20with%20Various%20Inclination%20Angles%20in%20Decarburization%20Ladle%20Furnace%22"
+        },
+        {
+          "zh": "Numerical Study on the Multiphase Flow Characteristics Generated by CaO–O₂ Mixed Top-blowing Method in 120t Converter. Metallurgical and Materials Transactions B, 2025, 56: 1850–1864.",
+          "en": "Numerical Study on the Multiphase Flow Characteristics Generated by CaO–O₂ Mixed Top-blowing Method in 120t Converter. Metallurgical and Materials Transactions B, 2025, 56: 1850–1864.",
+          "url": "https://scholar.google.com/scholar?q=%22Numerical%20Study%20on%20the%20Multiphase%20Flow%20Characteristics%20Generated%20by%20CaO%E2%80%93O%E2%82%82%20Mixed%20Top-blowing%20Method%20in%20120t%20Converter%22"
+        },
+        {
+          "zh": "Flow Field Characteristic of Postcombustion Oxygen Lance Formed by Various Secondary Nozzle Arrangements. Metallurgical and Materials Transactions B, 2024, 55: 935–949.",
+          "en": "Flow Field Characteristic of Postcombustion Oxygen Lance Formed by Various Secondary Nozzle Arrangements. Metallurgical and Materials Transactions B, 2024, 55: 935–949.",
+          "url": "https://scholar.google.com/scholar?q=%22Flow%20Field%20Characteristic%20of%20Postcombustion%20Oxygen%20Lance%20Formed%20by%20Various%20Secondary%20Nozzle%20Arrangements%22"
+        },
+        {
+          "zh": "Simulation and Application of O₂-N₂ Mixing Top-blowing Method in MURC Steelmaking Process. ISIJ International, 2024, 64: 1251–1262.",
+          "en": "Simulation and Application of O₂-N₂ Mixing Top-blowing Method in MURC Steelmaking Process. ISIJ International, 2024, 64: 1251–1262.",
+          "url": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20O%E2%82%82-N%E2%82%82%20Mixing%20Top-blowing%20Method%20in%20MURC%20Steelmaking%20Process%22"
+        },
+        {
+          "zh": "Effect of Furnace Lining Structure on the Flow Field in the 35t Top-blowing Converter Steelmaking Process. ISIJ International, 2024, 64: 1384–1395.",
+          "en": "Effect of Furnace Lining Structure on the Flow Field in the 35t Top-blowing Converter Steelmaking Process. ISIJ International, 2024, 64: 1384–1395.",
+          "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Furnace%20Lining%20Structure%20on%20the%20Flow%20Field%20in%20the%2035t%20Top-blowing%20Converter%20Steelmaking%20Process%22"
+        },
+        {
+          "zh": "Flow Characteristic of Supersonic Jet Related to O₂–CO₂ Mixing Injection Method. Metallurgical and Materials Transactions B, 2024, 55: 1217–1230.",
+          "en": "Flow Characteristic of Supersonic Jet Related to O₂–CO₂ Mixing Injection Method. Metallurgical and Materials Transactions B, 2024, 55: 1217–1230.",
+          "url": "https://scholar.google.com/scholar?q=%22Flow%20Characteristic%20of%20Supersonic%20Jet%20Related%20to%20O%E2%82%82%E2%80%93CO%E2%82%82%20Mixing%20Injection%20Method%22"
+        },
+        {
+          "zh": "Computational Investigation of Coherent Jet Behavior Generated by H₂ Shrouding Flow. Metallurgical and Materials Transactions B, 2024, 55: 600–611.",
+          "en": "Computational Investigation of Coherent Jet Behavior Generated by H₂ Shrouding Flow. Metallurgical and Materials Transactions B, 2024, 55: 600–611.",
+          "url": "https://scholar.google.com/scholar?q=%22Computational%20Investigation%20of%20Coherent%20Jet%20Behavior%20Generated%20by%20H%E2%82%82%20Shrouding%20Flow%22"
+        },
+        {
+          "zh": "Effect of Exit Wear Length on the Behavior of Coherent Jet. ISIJ International, 2024, 64: 1384–1395.",
+          "en": "Effect of Exit Wear Length on the Behavior of Coherent Jet. ISIJ International, 2024, 64: 1384–1395.",
+          "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Exit%20Wear%20Length%20on%20the%20Behavior%20of%20Coherent%20Jet%22"
+        },
+        {
+          "zh": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "en": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "url": "https://scholar.google.com/scholar?q=%22Behaviors%20of%20Supersonic%20Oxygen%20Multi-jets%20with%20Various%20Preheating%20Temperatures%22"
         }
       ],
-      "projects": [],
+      "projects": [
+        {
+          "zh": "国家自然科学基金面上项目：基于底吹生物质的转炉高废钢比增热赋能与脱磷机制研究（主持）",
+          "en": "国家自然科学基金面上项目：基于底吹生物质的转炉高废钢比增热赋能与脱磷机制研究（主持）"
+        },
+        {
+          "zh": "国家自然科学基金重大项目：再生钢铁原料电炉炼钢深度净化机理（参与）",
+          "en": "国家自然科学基金重大项目：再生钢铁原料电炉炼钢深度净化机理（参与）"
+        },
+        {
+          "zh": "国家科技重大专项：烟气低耗高效矿化固碳技术研发及示范（参与）",
+          "en": "国家科技重大专项：烟气低耗高效矿化固碳技术研发及示范（参与）"
+        },
+        {
+          "zh": "校企项目：欧亚项目炼钢工艺模型研究及软件开发技术服务（主持）",
+          "en": "校企项目：欧亚项目炼钢工艺模型研究及软件开发技术服务（主持）"
+        },
+        {
+          "zh": "校企项目：钢化联产CO₂-CO捕集及资源化协同降碳示范工程（主持）",
+          "en": "校企项目：钢化联产CO₂-CO捕集及资源化协同降碳示范工程（主持）"
+        }
+      ],
       "awards": [
         {
           "zh": "2018年，高等学校科学研究优秀成果奖（科学技术）二等奖：电弧炉炼钢终点控制技术及应用",
           "en": "2018 · Higher Education Scientific Research Outstanding Achievement Award, Second Prize: EAF end-point control technology and application"
+        },
+        {
+          "zh": "山东省冶金科技进步奖一等奖：基于超高级别品种钢的CO₂-Ar-O₂多元介质净化冶炼技术研发及应用，排名第四",
+          "en": "山东省冶金科技进步奖一等奖：基于超高级别品种钢的CO₂-Ar-O₂多元介质净化冶炼技术研发及应用，排名第四"
+        },
+        {
+          "zh": "江苏省科学技术奖三等奖：基于转炉CO₂资源化利用的低碳洁净冶炼技术及工业应用，排名第六",
+          "en": "江苏省科学技术奖三等奖：基于转炉CO₂资源化利用的低碳洁净冶炼技术及工业应用，排名第六"
         }
       ],
-      "source": "https://ncms.ustb.edu.cn/rcpy/dsdw/yjgc/28036557b0cc40658c8ac67da4584826.htm",
+      "source": "https://sklam.ustb.edu.cn/sysgk/gzzd/js/be5c79176b1f4f80b1475ff3dede351f.htm",
       "demo": false,
       "group": "导师",
+      "affiliation": {
+        "zh": "北京科技大学数智冶金研究所；流体与材料相互作用教育部重点实验室秘书",
+        "en": "Institute of Digital and Intelligent Metallurgy, USTB; Secretary, MOE Key Laboratory of Fluid and Material Interaction"
+      },
       "office": {
-        "zh": "",
-        "en": ""
+        "zh": "冶金楼418-1室",
+        "en": "Room 418-1, Metallurgy Building"
       },
       "entryYear": "",
       "graduationYear": "",
-      "patents": [],
-      "_order": 50
+      "patents": [
+        {
+          "zh": "基于激光信号的转炉底吹元件的堵塞检测与气路复通方法，ZL202311646173.6",
+          "en": "基于激光信号的转炉底吹元件的堵塞检测与气路复通方法，ZL202311646173.6"
+        },
+        {
+          "zh": "一种RH真空精炼过程通过底吹提高精炼效果的方法，ZL202310025825.8",
+          "en": "一种RH真空精炼过程通过底吹提高精炼效果的方法，ZL202310025825.8"
+        },
+        {
+          "zh": "一种冶金用超音速喷枪喉口结构的连续监测与评估方法，ZL202211548126.3",
+          "en": "一种冶金用超音速喷枪喉口结构的连续监测与评估方法，ZL202211548126.3"
+        },
+        {
+          "zh": "用于农作物生长的冶金转炉改质烟气收集与分配系统，ZL202210239070.7",
+          "en": "用于农作物生长的冶金转炉改质烟气收集与分配系统，ZL202210239070.7"
+        },
+        {
+          "zh": "一种基于钢水连续测温的底吹氧气转炉冶炼过程控制方法，ZL201810174520.2",
+          "en": "一种基于钢水连续测温的底吹氧气转炉冶炼过程控制方法，ZL201810174520.2"
+        }
+      ],
+      "_order": 50,
+      "websites": [
+        {
+          "url": "https://sklam.ustb.edu.cn/sysgk/gzzd/js/be5c79176b1f4f80b1475ff3dede351f.htm",
+          "label": {
+            "zh": "全国重点实验室个人主页",
+            "en": "National laboratory profile"
+          }
+        },
+        {
+          "url": "https://ncms.ustb.edu.cn/rcpy/dsdw/yjgc/28036557b0cc40658c8ac67da4584826.htm",
+          "label": {
+            "zh": "材料服役安全中心个人主页",
+            "en": "NCMS faculty profile"
+          }
+        }
+      ],
+      "phone": "010-62332122",
+      "email": "liufuhaisteel@ustb.edu.cn"
     },
     {
       "id": "zhao-fei",
@@ -724,29 +1069,29 @@ window.SITE_CMS = {
       },
       "photo": "assets/zhao-fei.jpg",
       "intro": {
-        "zh": "研究冶金超音速射流与材料氧化烧蚀，任流体与材料相互作用教育部重点实验室副主任。",
-        "en": "Research on metallurgical supersonic jets and material oxidation and ablation; Deputy Director of the Key Laboratory of Fluid and Material Interaction, Ministry of Education."
+        "zh": "北京科技大学国家材料服役安全科学中心副研究员、硕士生导师，任流体与材料相互作用教育部重点实验室副主任。主要研究电弧炉等冶金过程的超音速射流模拟与应用，以及高超声速射流环境中的材料氧化烧蚀，兼顾冶金工艺优化与极端环境材料评价。",
+        "en": "Associate researcher and master’s supervisor at the National Center for Materials Service Safety, USTB, and Deputy Director of the MOE Key Laboratory of Fluid and Material Interaction. His research covers simulation and applications of supersonic jets in metallurgical processes, including electric arc furnaces, and material oxidation and ablation in hypersonic jets, linking process optimization with materials evaluation in extreme environments."
       },
       "experience": [
         {
-          "zh": "2005–2009，河南科技大学，冶金工程学士",
-          "en": "2005–2009 · Henan University of Science and Technology · BEng"
+          "zh": "2005.09–2009.06，河南科技大学，冶金工程学士",
+          "en": "2005.09–2009.06 · Henan University of Science and Technology · BEng in Metallurgical Engineering"
         },
         {
-          "zh": "2009–2015，北京科技大学，冶金工程博士",
-          "en": "2009–2015 · USTB · PhD"
+          "zh": "2009.09–2015.01，北京科技大学，冶金工程博士",
+          "en": "2009.09–2015.01 · USTB · PhD in Metallurgical Engineering"
         },
         {
-          "zh": "2015–2017，国家材料服役安全科学中心，博士后",
-          "en": "2015–2017 · NCMS · Postdoctoral researcher"
+          "zh": "2015.02–2017.06，北京科技大学国家材料服役安全科学中心，博士后",
+          "en": "2015.02–2017.06 · NCMS, USTB · Postdoctoral researcher"
         },
         {
-          "zh": "2017–2021，国家材料服役安全科学中心，助理研究员",
-          "en": "2017–2021 · NCMS · Assistant Researcher"
+          "zh": "2017.07–2021.07，北京科技大学国家材料服役安全科学中心，助理研究员",
+          "en": "2017.07–2021.07 · NCMS, USTB · Assistant researcher"
         },
         {
-          "zh": "2021–至今，国家材料服役安全科学中心，副研究员",
-          "en": "2021–present · NCMS · Associate Researcher"
+          "zh": "2021.07–至今，北京科技大学国家材料服役安全科学中心，副研究员",
+          "en": "2021.07–present · NCMS, USTB · Associate researcher"
         }
       ],
       "fields": [
@@ -763,20 +1108,84 @@ window.SITE_CMS = {
         "zh": "冶金工程",
         "en": "Metallurgical Engineering"
       },
-      "papers": [],
-      "projects": [],
-      "awards": [],
+      "papers": [
+        {
+          "zh": "Fei Zhao. Effect of Environment Parameters on the Ablation of Hypersonic Missile Wing. Journal of Spacecraft and Rockets, 2020, 57(1): 202–205.",
+          "en": "Fei Zhao. Effect of Environment Parameters on the Ablation of Hypersonic Missile Wing. Journal of Spacecraft and Rockets, 2020, 57(1): 202–205.",
+          "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Environment%20Parameters%20on%20the%20Ablation%20of%20Hypersonic%20Missile%20Wing%22"
+        },
+        {
+          "zh": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang. Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet. Metallurgical and Materials Transactions B, 2017, 48(3): 1807–1816.",
+          "en": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang. Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet. Metallurgical and Materials Transactions B, 2017, 48(3): 1807–1816.",
+          "url": "https://scholar.google.com/scholar?q=%22Effect%20of%20Shrouding%20Gas%20Parameters%20on%20Characteristics%20of%20Supersonic%20Coherent%20Jet%22"
+        },
+        {
+          "zh": "Fei Zhao. Characteristics of a coherent jet enshrouded in a supersonic fuel gas. International Journal of Minerals, Metallurgy and Materials, 2020, 27(2): 173–180.",
+          "en": "Fei Zhao. Characteristics of a coherent jet enshrouded in a supersonic fuel gas. International Journal of Minerals, Metallurgy and Materials, 2020, 27(2): 173–180.",
+          "url": "https://scholar.google.com/scholar?q=%22Characteristics%20of%20a%20coherent%20jet%20enshrouded%20in%20a%20supersonic%20fuel%20gas%22"
+        },
+        {
+          "zh": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "en": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+          "url": "https://scholar.google.com/scholar?q=%22Behaviors%20of%20Supersonic%20Oxygen%20Multi-jets%20with%20Various%20Preheating%20Temperatures%22"
+        },
+        {
+          "zh": "赵飞，孙冬柏，朱荣，杨凌志. 不同伴随流条件下的集束射流流场特性. 中南大学学报（自然科学版）, 2018, (02): 282–289.",
+          "en": "赵飞，孙冬柏，朱荣，杨凌志. 不同伴随流条件下的集束射流流场特性. 中南大学学报（自然科学版）, 2018, (02): 282–289.",
+          "url": "https://scholar.google.com/scholar?q=%22%E4%B8%8D%E5%90%8C%E4%BC%B4%E9%9A%8F%E6%B5%81%E6%9D%A1%E4%BB%B6%E4%B8%8B%E7%9A%84%E9%9B%86%E6%9D%9F%E5%B0%84%E6%B5%81%E6%B5%81%E5%9C%BA%E7%89%B9%E6%80%A7%22"
+        }
+      ],
+      "projects": [
+        {
+          "zh": "2020年，国家自然科学基金：基于时空分辨成像光谱分析的炼钢供氧火点区冶金反应特性研究",
+          "en": "2020年，国家自然科学基金：基于时空分辨成像光谱分析的炼钢供氧火点区冶金反应特性研究"
+        },
+        {
+          "zh": "2020年，中央高校基本科研业务费：航空发动机叶片及涂层烧蚀性能研究",
+          "en": "2020年，中央高校基本科研业务费：航空发动机叶片及涂层烧蚀性能研究"
+        },
+        {
+          "zh": "2021年，横向企业项目：高量级气动冲击响应谱试验技术研究及应用",
+          "en": "2021年，横向企业项目：高量级气动冲击响应谱试验技术研究及应用"
+        }
+      ],
+      "awards": [
+        {
+          "zh": "2018年，高等学校科学研究优秀成果奖（科学技术）二等奖：电弧炉炼钢终点控制技术及应用",
+          "en": "2018年，高等学校科学研究优秀成果奖（科学技术）二等奖：电弧炉炼钢终点控制技术及应用"
+        }
+      ],
       "source": "https://ncms.ustb.edu.cn/rcpy/dsdw/yjgc/3094f41086b6464ea5241b31a8dd77c9.htm",
       "demo": false,
       "group": "导师",
+      "affiliation": {
+        "zh": "北京科技大学国家材料服役安全科学中心；流体与材料相互作用教育部重点实验室副主任",
+        "en": "National Center for Materials Service Safety, USTB; Deputy Director, MOE Key Laboratory of Fluid and Material Interaction"
+      },
       "office": {
         "zh": "",
         "en": ""
       },
       "entryYear": "",
       "graduationYear": "",
-      "patents": [],
-      "_order": 60
+      "patents": [
+        {
+          "zh": "赵飞，朱荣：一种炼钢超音速射流氧枪及其降低喷吹射流噪声的方法，ZL201810541654.3，2019-09-24授权",
+          "en": "赵飞，朱荣：一种炼钢超音速射流氧枪及其降低喷吹射流噪声的方法，ZL201810541654.3，2019-09-24授权"
+        }
+      ],
+      "_order": 60,
+      "websites": [
+        {
+          "url": "https://ncms.ustb.edu.cn/rcpy/dsdw/yjgc/3094f41086b6464ea5241b31a8dd77c9.htm",
+          "label": {
+            "zh": "材料服役安全中心个人主页",
+            "en": "NCMS faculty profile"
+          }
+        }
+      ],
+      "phone": "15210607010",
+      "email": "zhaofei@ustb.edu.cn"
     },
     {
       "id": "liu-runzao",
@@ -790,8 +1199,8 @@ window.SITE_CMS = {
       },
       "photo": "assets/liu-runzao.jpg",
       "intro": {
-        "zh": "北京科技大学冶金喷枪研究中心团队成员。",
-        "en": "Member of the Metallurgical Lance Research Center team, USTB."
+        "zh": "",
+        "en": ""
       },
       "experience": [],
       "fields": [],
@@ -799,8 +1208,8 @@ window.SITE_CMS = {
       "projects": [],
       "awards": [],
       "office": {
-        "zh": "冶金楼418",
-        "en": "Metallurgy Building, Room 418"
+        "zh": "",
+        "en": ""
       },
       "demo": false,
       "group": "导师",
@@ -811,26 +1220,200 @@ window.SITE_CMS = {
       "entryYear": "",
       "graduationYear": "",
       "patents": [],
-      "_order": 70
+      "_order": 70,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "shen-hanlin",
+      "demo": false,
+      "group": "导师",
+      "name": {
+        "zh": "沈汉林",
+        "en": "Hanlin Shen"
+      },
+      "role": {
+        "zh": "助理研究员",
+        "en": "Assistant Researcher"
+      },
+      "photo": "assets/shen-hanlin.jpg",
+      "intro": {
+        "zh": "从事钢铁工业二次资源循环利用及冶金固废、危废处置与资源化研究，重点开展有价金属提取、钢铁与铝工业废物协同利用及功能材料制备。主持广东省基础与应用基础研究基金、中国博士后科学基金面上项目，研究成果发表于Journal of Hazardous Materials、Journal of Cleaner Production等期刊，获中国有色金属工业科学技术奖。",
+        "en": "Research on secondary-resource recycling in the steel industry and treatment and utilization of metallurgical solid and hazardous wastes, focusing on valuable-metal recovery, coordinated use of steel and aluminum industry residues, and functional materials. He leads projects supported by Guangdong’s Basic and Applied Basic Research Foundation and the China Postdoctoral Science Foundation. His work has appeared in journals including Journal of Hazardous Materials and Journal of Cleaner Production, with recognition from the China Nonferrous Metals Industry Science and Technology Awards."
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室 · 冶金资源研究所",
+        "en": "State Key Laboratory of Advanced Metallurgy · Institute of Metallurgical Resources"
+      },
+      "office": {
+        "zh": "冶金生态楼1205",
+        "en": "Room 1205, Metallurgy and Ecology Building"
+      },
+      "fields": [
+        {
+          "zh": "钢铁工业二次资源循环利用",
+          "en": "Secondary-resource recycling in the steel industry"
+        },
+        {
+          "zh": "冶金固废、危废处置及资源化",
+          "en": "Treatment and utilization of metallurgical solid and hazardous wastes"
+        }
+      ],
+      "experience": [
+        {
+          "zh": "2014–2018，北京科技大学，材料化学学士",
+          "en": "2014–2018 · USTB · BSc in Materials Chemistry"
+        },
+        {
+          "zh": "2018–2023，北京科技大学，材料科学与工程博士（导师：张深根教授）",
+          "en": "2018–2023 · USTB · PhD in Materials Science and Engineering; supervisor: Prof. Shengen Zhang"
+        },
+        {
+          "zh": "2023–2025，北京科技大学冶金工程流动站，博士后（导师：朱荣院士）",
+          "en": "2023–2025 · USTB · Postdoctoral researcher in Metallurgical Engineering; supervisor: Academician Rong Zhu"
+        },
+        {
+          "zh": "2025–2026，北京科技大学新材料技术研究院，助理研究员",
+          "en": "2025–2026 · Institute for Advanced Materials and Technology, USTB · Assistant Researcher"
+        },
+        {
+          "zh": "2026–至今，北京科技大学绿色低碳钢铁冶金全国重点实验室，助理研究员",
+          "en": "2026–present · State Key Laboratory of Advanced Metallurgy, USTB · Assistant Researcher"
+        }
+      ],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": "",
+      "graduationYear": "",
+      "papers": [
+        {
+          "zh": "Shen HL, Liu B, Lou BJ, et al. Separation of heavy metals from municipal solid waste incineration fly ash: A review. Ecotoxicology and Environmental Safety, 2025, 299: 118363.",
+          "en": "Shen HL, Liu B, Lou BJ, et al. Separation of heavy metals from municipal solid waste incineration fly ash: A review. Ecotoxicology and Environmental Safety, 2025, 299: 118363.",
+          "url": "https://scholar.google.com/scholar?q=%22Separation%20of%20heavy%20metals%20from%20municipal%20solid%20waste%20incineration%20fly%20ash%3A%20A%20review%22"
+        },
+        {
+          "zh": "Shen HL, Lou BJ, Liu B, et al. Reduction of iron from red mud with aluminum dross to capture heavy metals from municipal solid waste incineration fly ash into alloy. Journal of Environmental Chemical Engineering, 2025, 13(2): 115823.",
+          "en": "Shen HL, Lou BJ, Liu B, et al. Reduction of iron from red mud with aluminum dross to capture heavy metals from municipal solid waste incineration fly ash into alloy. Journal of Environmental Chemical Engineering, 2025, 13(2): 115823.",
+          "url": "https://scholar.google.com/scholar?q=%22Reduction%20of%20iron%20from%20red%20mud%20with%20aluminum%20dross%20to%20capture%20heavy%20metals%20from%20municipal%20solid%20waste%20incineration%20fly%20ash%20into%20alloy%22"
+        },
+        {
+          "zh": "Shen HL, Lou BJ, Liu B, et al. In-situ preparation of alumina-based cermet after reduction of iron oxide in red mud with aluminum dross. Ceramics International, 2024, 50: 21630–21637.",
+          "en": "Shen HL, Lou BJ, Liu B, et al. In-situ preparation of alumina-based cermet after reduction of iron oxide in red mud with aluminum dross. Ceramics International, 2024, 50: 21630–21637.",
+          "url": "https://scholar.google.com/scholar?q=%22In-situ%20preparation%20of%20alumina-based%20cermet%20after%20reduction%20of%20iron%20oxide%20in%20red%20mud%20with%20aluminum%20dross%22"
+        },
+        {
+          "zh": "Shen HL, Lou BJ, Liu B, et al. Reduction of heavy metals in municipal solid waste incineration fly ash followed by making transparent glass. Waste Management, 2024, 183: 184–190.",
+          "en": "Shen HL, Lou BJ, Liu B, et al. Reduction of heavy metals in municipal solid waste incineration fly ash followed by making transparent glass. Waste Management, 2024, 183: 184–190.",
+          "url": "https://scholar.google.com/scholar?q=%22Reduction%20of%20heavy%20metals%20in%20municipal%20solid%20waste%20incineration%20fly%20ash%20followed%20by%20making%20transparent%20glass%22"
+        },
+        {
+          "zh": "Shen HL, Liu B, Zhang JJ, et al. Homogeneous reduction for heavy metals from pickling sludge with aluminum nitride from secondary aluminum dross in aluminosilicate melt ‘solution’ environment. Journal of Cleaner Production, 2022, 362: 132358.",
+          "en": "Shen HL, Liu B, Zhang JJ, et al. Homogeneous reduction for heavy metals from pickling sludge with aluminum nitride from secondary aluminum dross in aluminosilicate melt ‘solution’ environment. Journal of Cleaner Production, 2022, 362: 132358.",
+          "url": "https://scholar.google.com/scholar?q=%22Homogeneous%20reduction%20for%20heavy%20metals%20from%20pickling%20sludge%20with%20aluminum%20nitride%20from%20secondary%20aluminum%20dross%20in%20aluminosilicate%20melt%20%E2%80%98solution%E2%80%99%20environment%22"
+        },
+        {
+          "zh": "Shen HL, Liu B, Liu Y, et al. Phase transition during nucleation process in calcium aluminate glass-ceramics manufactured from secondary aluminum dross. Journal of Alloys and Compounds, 2022, 911: 165010.",
+          "en": "Shen HL, Liu B, Liu Y, et al. Phase transition during nucleation process in calcium aluminate glass-ceramics manufactured from secondary aluminum dross. Journal of Alloys and Compounds, 2022, 911: 165010.",
+          "url": "https://scholar.google.com/scholar?q=%22Phase%20transition%20during%20nucleation%20process%20in%20calcium%20aluminate%20glass-ceramics%20manufactured%20from%20secondary%20aluminum%20dross%22"
+        },
+        {
+          "zh": "Shen HL, Liu B, Shi ZS, et al. Reduction for heavy metals in pickling sludge with aluminum nitride in secondary aluminum dross by pyrometallurgy, followed by glass ceramics manufacture. Journal of Hazardous Materials, 2021, 418: 126331.",
+          "en": "Shen HL, Liu B, Shi ZS, et al. Reduction for heavy metals in pickling sludge with aluminum nitride in secondary aluminum dross by pyrometallurgy, followed by glass ceramics manufacture. Journal of Hazardous Materials, 2021, 418: 126331.",
+          "url": "https://scholar.google.com/scholar?q=%22Reduction%20for%20heavy%20metals%20in%20pickling%20sludge%20with%20aluminum%20nitride%20in%20secondary%20aluminum%20dross%20by%20pyrometallurgy%2C%20followed%20by%20glass%20ceramics%20manufacture%22"
+        },
+        {
+          "zh": "Shen HL, Liu B, Ekberg C, et al. Harmless disposal and resource utilization for secondary aluminum dross: A review. Science of The Total Environment, 2021, 760: 143968.",
+          "en": "Shen HL, Liu B, Ekberg C, et al. Harmless disposal and resource utilization for secondary aluminum dross: A review. Science of The Total Environment, 2021, 760: 143968.",
+          "url": "https://scholar.google.com/scholar?q=%22Harmless%20disposal%20and%20resource%20utilization%20for%20secondary%20aluminum%20dross%3A%20A%20review%22"
+        },
+        {
+          "zh": "Liu J, Zhang SG, Shen HL, et al. Recycling of secondary aluminum dross to make alumina by hydrometallurgy: A review. Journal of Materials Research and Technology, 2024, 32: 4234–4245.",
+          "en": "Liu J, Zhang SG, Shen HL, et al. Recycling of secondary aluminum dross to make alumina by hydrometallurgy: A review. Journal of Materials Research and Technology, 2024, 32: 4234–4245.",
+          "url": "https://scholar.google.com/scholar?q=%22Recycling%20of%20secondary%20aluminum%20dross%20to%20make%20alumina%20by%20hydrometallurgy%3A%20A%20review%22"
+        },
+        {
+          "zh": "Lou BJ, Shen HL, Liu B, et al. Recycling secondary aluminum dross to make building materials: A review. Construction and Building Materials, 2023, 409: 133989.",
+          "en": "Lou BJ, Shen HL, Liu B, et al. Recycling secondary aluminum dross to make building materials: A review. Construction and Building Materials, 2023, 409: 133989.",
+          "url": "https://scholar.google.com/scholar?q=%22Recycling%20secondary%20aluminum%20dross%20to%20make%20building%20materials%3A%20A%20review%22"
+        }
+      ],
+      "patents": [
+        {
+          "zh": "一种二次铝灰煅烧、筛分、碱洗、酸洗制备氧化铝的方法，ZL202410872618.0，2026-02-13授权",
+          "en": "一种二次铝灰煅烧、筛分、碱洗、酸洗制备氧化铝的方法，ZL202410872618.0，2026-02-13授权"
+        },
+        {
+          "zh": "一种基于钙硅铝镁氧化物调配的多源固废资源化方法，ZL202311126109.5，2024-05-10授权",
+          "en": "一种基于钙硅铝镁氧化物调配的多源固废资源化方法，ZL202311126109.5，2024-05-10授权"
+        },
+        {
+          "zh": "一种二次铝灰渣还原危险固废重金属及熔渣利用的方法，ZL202110098327.7，2022-05-24授权",
+          "en": "一种二次铝灰渣还原危险固废重金属及熔渣利用的方法，ZL202110098327.7，2022-05-24授权"
+        },
+        {
+          "zh": "日本专利：カルシウム珪素アルミニウムマグネシウム酸化物配合に基づく多源固体廃棄資源化方法，特許第7664653，2025-04-10授权",
+          "en": "日本专利：カルシウム珪素アルミニウムマグネシウム酸化物配合に基づく多源固体廃棄資源化方法，特許第7664653，2025-04-10授权"
+        }
+      ],
+      "projects": [
+        {
+          "zh": "广东省基础与应用基础研究基金：铝灰渣协同赤泥原位制备Fe/氧化铝复相陶瓷机理及应用，2023A1515110094，2023.11–2026.10，主持，10万元",
+          "en": "Guangdong Basic and Applied Basic Research Foundation: mechanisms and applications of in-situ Fe/alumina composite ceramics from aluminum dross and red mud; 2023A1515110094; Nov 2023–Oct 2026; PI; RMB 100,000."
+        },
+        {
+          "zh": "中国博士后科学基金面上项目：铝硅酸熔体中AlN均相还原Fe₂O₃原位合成Fe-Al₂O₃多孔陶瓷机理，2024M750178，2024.07–2025.06，主持",
+          "en": "China Postdoctoral Science Foundation: in-situ Fe–Al₂O₃ porous ceramics through homogeneous AlN reduction of Fe₂O₃ in aluminosilicate melts; 2024M750178; Jul 2024–Jun 2025; PI."
+        }
+      ],
+      "awards": [
+        {
+          "zh": "中国有色金属工业科学技术二等奖，2025年，排名第10",
+          "en": "China Nonferrous Metals Industry Science and Technology Award, Second Prize, 2025; ranked 10th."
+        },
+        {
+          "zh": "中国有色金属工业科学技术一等奖，2023年，排名第6",
+          "en": "China Nonferrous Metals Industry Science and Technology Award, First Prize, 2023; ranked 6th."
+        }
+      ],
+      "_order": 80,
+      "websites": [
+        {
+          "url": "https://sklam.ustb.edu.cn/sysgk/gzzd/jszlyjy/8df2280f0c0c47f2892464657d459bd7.htm",
+          "label": {
+            "zh": "全国重点实验室个人主页",
+            "en": "Official laboratory profile"
+          }
+        }
+      ],
+      "source": "https://sklam.ustb.edu.cn/sysgk/gzzd/jszlyjy/8df2280f0c0c47f2892464657d459bd7.htm",
+      "phone": "",
+      "email": "shenhanlin@ustb.edu.cn"
     }
   ],
   "students": [
     {
-      "id": "demo-student-01",
-      "demo": true,
+      "id": "student-001",
+      "demo": false,
       "group": "学生",
       "name": {
-        "zh": "演示学生 A",
-        "en": "Demo student A"
+        "zh": "李层",
+        "en": "Ceng Li"
       },
       "role": {
         "zh": "博士研究生",
         "en": "PhD student"
       },
-      "photo": "assets/demo-student-01.jpg",
+      "photo": "",
       "intro": {
-        "zh": "此卡片仅用于网站布局演示；照片为公开样例人像，不对应团队真实成员。请在人员表中替换为真实资料。",
-        "en": "Layout demonstration only. This stock portrait does not depict a real team member. Replace this row with verified member information."
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
       },
       "office": {
         "zh": "",
@@ -842,30 +1425,163 @@ window.SITE_CMS = {
         "zh": "",
         "en": ""
       },
-      "entryYear": 2025,
+      "entryYear": 2024,
       "graduationYear": "",
       "papers": [],
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 250
+      "_order": 10,
+      "websites": [],
+      "phone": "",
+      "email": ""
     },
     {
-      "id": "demo-student-02",
-      "demo": true,
+      "id": "student-002",
+      "demo": false,
       "group": "学生",
       "name": {
-        "zh": "演示学生 B",
-        "en": "Demo student B"
+        "zh": "刘志勇",
+        "en": "Zhiyong Liu"
       },
       "role": {
-        "zh": "硕士研究生",
-        "en": "Master’s student"
+        "zh": "博士研究生",
+        "en": "PhD student"
       },
-      "photo": "assets/demo-student-02.jpg",
+      "photo": "",
       "intro": {
-        "zh": "此卡片仅用于网站布局演示；照片为公开样例人像，不对应团队真实成员。请在人员表中替换为真实资料。",
-        "en": "Layout demonstration only. This stock portrait does not depict a real team member. Replace this row with verified member information."
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 20,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-003",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "昌欢",
+        "en": "Huan Chang"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 30,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-004",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "屠明伟",
+        "en": "Mingwei Tu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 40,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-005",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "刘恺",
+        "en": "Kai Liu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
       },
       "office": {
         "zh": "",
@@ -883,7 +1599,2663 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 260
+      "_order": 50,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-006",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "李磊",
+        "en": "Lei Li"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 60,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-007",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "董彪",
+        "en": "Biao Dong"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 70,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-008",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "易上海",
+        "en": "Shanghai Yi"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 80,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-009",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "马忠兰",
+        "en": "Zhonglan Ma"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 90,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-010",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "杨阳",
+        "en": "Yang Yang"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 100,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-011",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "马俊宇",
+        "en": "Junyu Ma"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 110,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-012",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "潘艺彤",
+        "en": "Yitong Pan"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 120,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-013",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "邵圣艺",
+        "en": "Shengyi Shao"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 130,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-014",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "肖德锡",
+        "en": "Dexi Xiao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 140,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-015",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "刘继龙",
+        "en": "Jilong Liu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 150,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-016",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "田腾昊",
+        "en": "Tenghao Tian"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 160,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-017",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "吴亚宇",
+        "en": "Yayu Wu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2024,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 170,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-018",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "韩成金",
+        "en": "Chengjin Han"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2023,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 180,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-019",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "孟令辉",
+        "en": "Linghui Meng"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2023,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 190,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-020",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "王润哲",
+        "en": "Runzhe Wang"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2023,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 200,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-021",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "赵鸿琛",
+        "en": "Hongchen Zhao"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2023,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 210,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-022",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "杨华鹏",
+        "en": "Huapeng Yang"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2023,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 220,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-023",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "韩生海",
+        "en": "Shenghai Han"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 230,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-024",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "徐阿帆",
+        "en": "Afan Xu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2022,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 240,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-025",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "薛波涛",
+        "en": "Botao Xue"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2022,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 250,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-026",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "张洪金",
+        "en": "Hongjin Zhang"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2021,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 260,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-027",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "凌俊浩",
+        "en": "Junhao Ling"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 270,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-028",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "徐坤",
+        "en": "Kun Xu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 280,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-029",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "童斌",
+        "en": "Bin Tong"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 290,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-030",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "逯送超",
+        "en": "Songchao Lu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 300,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-031",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "赵凯",
+        "en": "Kai Zhao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 310,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-032",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "李佳乐",
+        "en": "Jiale Li"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 320,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-033",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "孙佳豪",
+        "en": "Jiahao Sun"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 330,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-034",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "李彦卓",
+        "en": "Yanzhuo Li"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 340,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-035",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "何俊霖",
+        "en": "Junlin He"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 350,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-036",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "王炎宏",
+        "en": "Yanhong Wang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 360,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-037",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "曹伟",
+        "en": "Wei Cao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 370,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-038",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "乔浩玮",
+        "en": "Haowei Qiao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 380,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-039",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "邓佳铭",
+        "en": "Jiaming Deng"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 390,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-040",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "郭佳林",
+        "en": "Jialin Guo"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 400,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-041",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "石潭橦",
+        "en": "Tantong Shi"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 410,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-042",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "黄明达",
+        "en": "Mingda Huang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 420,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-043",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "温一凡",
+        "en": "Yifan Wen"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": "",
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 430,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-044",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "陈扬森",
+        "en": "Yangsen Chen"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 440,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-045",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "张家豪",
+        "en": "Jiahao Zhang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 450,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-046",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "王敏锐",
+        "en": "Minrui Wang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 460,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-047",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "王旭",
+        "en": "Xu Wang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "国家材料服役安全科学中心",
+        "en": "The National Center for Materials Service Safety (NCMS)"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 470,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-048",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "张宇晴",
+        "en": "Yuqing Zhang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "国家材料服役安全中心",
+        "en": "The National Center for Materials Service Safety (NCMS)"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 480,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-049",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "郝子怡",
+        "en": "Ziyi Hao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 490,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-050",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "许程博",
+        "en": "Chengbo Xu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 500,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-051",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "曲清泉",
+        "en": "Qingquan Qu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 510,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-052",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "杨阳",
+        "en": "Yang Yang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "国家材料服役安全科学中心",
+        "en": "The National Center for Materials Service Safety (NCMS)"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 520,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-053",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "白旭旭",
+        "en": "Xuxu Bai"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 530,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-054",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "刘海亮",
+        "en": "Hailiang Liu"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 540,
+      "websites": [
+        {
+          "url": "https://scholar.google.com/citations?user=w8Z9swkAAAAJ&hl",
+          "label": {
+            "zh": "Google Scholar",
+            "en": "Google Scholar"
+          }
+        }
+      ],
+      "source": "https://scholar.google.com/citations?user=w8Z9swkAAAAJ&hl",
+      "phone": "",
+      "email": "hl4872@nyu.edu"
+    },
+    {
+      "id": "student-055",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "郭小龙",
+        "en": "Xiaolong Guo"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 550,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-056",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "赵健平",
+        "en": "Jianping Zhao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 560,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-057",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "赵浩斌",
+        "en": "Haobin Zhao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 570,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-058",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "邹孟廷",
+        "en": "Mengting Zou"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "国家材料服役安全科学中心",
+        "en": "The National Center for Materials Service Safety (NCMS)"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 580,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-059",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "徐萌",
+        "en": "Meng Xu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 590,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-060",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "郭金奇",
+        "en": "Jinqi Guo"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 600,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-061",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "高原",
+        "en": "Yuan Gao"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 610,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-062",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "张泽玉",
+        "en": "Zeyu Zhang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 620,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-063",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "黄晨焕",
+        "en": "Chenhuan Huang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 630,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-064",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "胡海霖",
+        "en": "Hailin Hu"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "国家安全材料服役中心",
+        "en": "The National Center for Materials Service Safety (NCMS)"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 640,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-065",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "彭彬",
+        "en": "Bin Peng"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 650,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-066",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "李煜",
+        "en": "Yu Li"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "碳中和研究院",
+        "en": "Institute of Carbon Neutrality"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 660,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-067",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "关顺宽",
+        "en": "Shunkuan Guan"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金全重",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 670,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-068",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "王翔",
+        "en": "Xiang Wang"
+      },
+      "role": {
+        "zh": "硕士研究生",
+        "en": "Master’s student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "冶金与生态工程学院",
+        "en": "School of Metallurgical and Ecological Engineering"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2025,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 680,
+      "websites": [],
+      "phone": "",
+      "email": ""
+    },
+    {
+      "id": "student-069",
+      "demo": false,
+      "group": "学生",
+      "name": {
+        "zh": "曾加祥",
+        "en": "Jiaxiang Zeng"
+      },
+      "role": {
+        "zh": "博士研究生",
+        "en": "PhD student"
+      },
+      "photo": "",
+      "intro": {
+        "zh": "",
+        "en": ""
+      },
+      "affiliation": {
+        "zh": "绿色低碳钢铁冶金全国重点实验室",
+        "en": "State Key Laboratory of Advanced Metallurgy"
+      },
+      "office": {
+        "zh": "",
+        "en": ""
+      },
+      "fields": [],
+      "experience": [],
+      "students": {
+        "zh": "",
+        "en": ""
+      },
+      "entryYear": 2026,
+      "graduationYear": "",
+      "papers": [],
+      "patents": [],
+      "projects": [],
+      "awards": [],
+      "_order": 690,
+      "websites": [],
+      "phone": "",
+      "email": ""
     }
   ],
   "staff": [
@@ -920,42 +4292,10 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 10
-    },
-    {
-      "id": "shen-hanlin",
-      "demo": false,
-      "group": "实验室工作人员",
-      "name": {
-        "zh": "沈汉林",
-        "en": "Hanlin Shen"
-      },
-      "role": {
-        "zh": "实验室工作人员",
-        "en": "Laboratory staff"
-      },
-      "photo": "assets/shen-hanlin.jpg",
-      "intro": {
-        "zh": "",
-        "en": ""
-      },
-      "office": {
-        "zh": "冶金楼1205",
-        "en": "Metallurgy Building, Room 1205"
-      },
-      "fields": [],
-      "experience": [],
-      "students": {
-        "zh": "",
-        "en": ""
-      },
-      "entryYear": "",
-      "graduationYear": "",
-      "papers": [],
-      "patents": [],
-      "projects": [],
-      "awards": [],
-      "_order": 20
+      "_order": 10,
+      "websites": [],
+      "phone": "",
+      "email": ""
     },
     {
       "id": "tang-xudong",
@@ -990,7 +4330,10 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 30
+      "_order": 30,
+      "websites": [],
+      "phone": "",
+      "email": ""
     },
     {
       "id": "sun-chen",
@@ -1025,7 +4368,10 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 40
+      "_order": 40,
+      "websites": [],
+      "phone": "",
+      "email": ""
     }
   ],
   "alumni": [
@@ -1062,7 +4408,10 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 270
+      "_order": 270,
+      "websites": [],
+      "phone": "",
+      "email": ""
     },
     {
       "id": "demo-alumni-02",
@@ -1097,7 +4446,10 @@ window.SITE_CMS = {
       "patents": [],
       "projects": [],
       "awards": [],
-      "_order": 280
+      "_order": 280,
+      "websites": [],
+      "phone": "",
+      "email": ""
     }
   ],
   "news": [
@@ -1985,6 +5337,1065 @@ window.SITE_CMS = {
         "Chao Feng",
         "朱荣",
         "Rong Zhu"
+      ]
+    },
+    {
+      "id": "liu-official-1",
+      "year": 2026,
+      "title": {
+        "zh": "Computational Fluid Dynamics of Multiphase Behavior by Centre CaO–O₂ Mixed Injection Method in 100 t Converter",
+        "en": "Computational Fluid Dynamics of Multiphase Behavior by Centre CaO–O₂ Mixed Injection Method in 100 t Converter"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "ISIJ International",
+      "citation": "Computational Fluid Dynamics of Multiphase Behavior by Centre CaO–O₂ Mixed Injection Method in 100 t Converter. ISIJ International, 2026, 66: 66–76.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1180,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Computational%20Fluid%20Dynamics%20of%20Multiphase%20Behavior%20by%20Centre%20CaO%E2%80%93O%E2%82%82%20Mixed%20Injection%20Method%20in%20100%20t%20Converter%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-2",
+      "year": 2025,
+      "title": {
+        "zh": "Simulation and Application of Top-blowing Lance with Various Inclination Angles in Decarburization Ladle Furnace",
+        "en": "Simulation and Application of Top-blowing Lance with Various Inclination Angles in Decarburization Ladle Furnace"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "ISIJ International",
+      "citation": "Simulation and Application of Top-blowing Lance with Various Inclination Angles in Decarburization Ladle Furnace. ISIJ International, 2025, 65: 392–403.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1190,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20Top-blowing%20Lance%20with%20Various%20Inclination%20Angles%20in%20Decarburization%20Ladle%20Furnace%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-3",
+      "year": 2025,
+      "title": {
+        "zh": "Numerical Study on the Multiphase Flow Characteristics Generated by CaO–O₂ Mixed Top-blowing Method in 120t Converter",
+        "en": "Numerical Study on the Multiphase Flow Characteristics Generated by CaO–O₂ Mixed Top-blowing Method in 120t Converter"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Numerical Study on the Multiphase Flow Characteristics Generated by CaO–O₂ Mixed Top-blowing Method in 120t Converter. Metallurgical and Materials Transactions B, 2025, 56: 1850–1864.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1200,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Numerical%20Study%20on%20the%20Multiphase%20Flow%20Characteristics%20Generated%20by%20CaO%E2%80%93O%E2%82%82%20Mixed%20Top-blowing%20Method%20in%20120t%20Converter%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-4",
+      "year": 2024,
+      "title": {
+        "zh": "Flow Field Characteristic of Postcombustion Oxygen Lance Formed by Various Secondary Nozzle Arrangements",
+        "en": "Flow Field Characteristic of Postcombustion Oxygen Lance Formed by Various Secondary Nozzle Arrangements"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Flow Field Characteristic of Postcombustion Oxygen Lance Formed by Various Secondary Nozzle Arrangements. Metallurgical and Materials Transactions B, 2024, 55: 935–949.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1210,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Flow%20Field%20Characteristic%20of%20Postcombustion%20Oxygen%20Lance%20Formed%20by%20Various%20Secondary%20Nozzle%20Arrangements%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-5",
+      "year": 2024,
+      "title": {
+        "zh": "Simulation and Application of O₂-N₂ Mixing Top-blowing Method in MURC Steelmaking Process",
+        "en": "Simulation and Application of O₂-N₂ Mixing Top-blowing Method in MURC Steelmaking Process"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "ISIJ International",
+      "citation": "Simulation and Application of O₂-N₂ Mixing Top-blowing Method in MURC Steelmaking Process. ISIJ International, 2024, 64: 1251–1262.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1220,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20O%E2%82%82-N%E2%82%82%20Mixing%20Top-blowing%20Method%20in%20MURC%20Steelmaking%20Process%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-6",
+      "year": 2024,
+      "title": {
+        "zh": "Effect of Furnace Lining Structure on the Flow Field in the 35t Top-blowing Converter Steelmaking Process",
+        "en": "Effect of Furnace Lining Structure on the Flow Field in the 35t Top-blowing Converter Steelmaking Process"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "ISIJ International",
+      "citation": "Effect of Furnace Lining Structure on the Flow Field in the 35t Top-blowing Converter Steelmaking Process. ISIJ International, 2024, 64: 1384–1395.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1230,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Effect%20of%20Furnace%20Lining%20Structure%20on%20the%20Flow%20Field%20in%20the%2035t%20Top-blowing%20Converter%20Steelmaking%20Process%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-7",
+      "year": 2024,
+      "title": {
+        "zh": "Flow Characteristic of Supersonic Jet Related to O₂–CO₂ Mixing Injection Method",
+        "en": "Flow Characteristic of Supersonic Jet Related to O₂–CO₂ Mixing Injection Method"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Flow Characteristic of Supersonic Jet Related to O₂–CO₂ Mixing Injection Method. Metallurgical and Materials Transactions B, 2024, 55: 1217–1230.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1240,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Flow%20Characteristic%20of%20Supersonic%20Jet%20Related%20to%20O%E2%82%82%E2%80%93CO%E2%82%82%20Mixing%20Injection%20Method%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-8",
+      "year": 2024,
+      "title": {
+        "zh": "Computational Investigation of Coherent Jet Behavior Generated by H₂ Shrouding Flow",
+        "en": "Computational Investigation of Coherent Jet Behavior Generated by H₂ Shrouding Flow"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Computational Investigation of Coherent Jet Behavior Generated by H₂ Shrouding Flow. Metallurgical and Materials Transactions B, 2024, 55: 600–611.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1250,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Computational%20Investigation%20of%20Coherent%20Jet%20Behavior%20Generated%20by%20H%E2%82%82%20Shrouding%20Flow%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "liu-official-9",
+      "year": 2024,
+      "title": {
+        "zh": "Effect of Exit Wear Length on the Behavior of Coherent Jet",
+        "en": "Effect of Exit Wear Length on the Behavior of Coherent Jet"
+      },
+      "authors": "Fuhai Liu (author role listed on faculty profile; full author list in original)",
+      "journal": "ISIJ International",
+      "citation": "Effect of Exit Wear Length on the Behavior of Coherent Jet. ISIJ International, 2024, 64: 1384–1395.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "liu-fuhai"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1260,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Effect%20of%20Exit%20Wear%20Length%20on%20the%20Behavior%20of%20Coherent%20Jet%22",
+      "peopleNames": [
+        "刘福海",
+        "Fuhai Liu"
+      ]
+    },
+    {
+      "id": "dong-official-1",
+      "year": 2014,
+      "title": {
+        "zh": "Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System",
+        "en": "Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System"
+      },
+      "authors": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu",
+      "journal": "ISIJ International",
+      "citation": "Kai Dong, Long Wu, Wen-juan Liu, Rong Zhu. Desulfurization of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. ISIJ International, 2014, 54(10): 2248–2254.",
+      "categories": [
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1270,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Desulfurization%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-2",
+      "year": "",
+      "title": {
+        "zh": "Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud",
+        "en": "Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud"
+      },
+      "authors": "D. Kai, W. Long, L. Wenjuan, Z. Rong",
+      "journal": "Steel Research International",
+      "citation": "D. Kai, W. Long, L. Wenjuan, Z. Rong. Experimental Study on the Refining Desulfurization Slag Made from the Reduced Red Mud. Steel Research International, Published online; DOI: 10.1002/srin.201400181.",
+      "categories": [
+        "resources",
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "https://doi.org/10.1002/srin.201400181",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1280,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Experimental%20Study%20on%20the%20Refining%20Desulfurization%20Slag%20Made%20from%20the%20Reduced%20Red%20Mud%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-3",
+      "year": "",
+      "title": {
+        "zh": "Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment",
+        "en": "Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment"
+      },
+      "authors": "Kai Dong, Rong Zhu, Wenjuan Liu",
+      "journal": "High Temperature Materials and Processes",
+      "citation": "Kai Dong, Rong Zhu, Wenjuan Liu. Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique in Hot State Experiment. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0045.",
+      "categories": [
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "https://doi.org/10.1515/htmp-2014-0045",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1290,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Study%20on%20Indirect%20Measuring%20Technology%20of%20EAF%20Steelmaking%20Decarburization%20Rate%20by%20Off-gas%20Analysis%20Technique%20in%20Hot%20State%20Experiment%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-4",
+      "year": "",
+      "title": {
+        "zh": "Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process",
+        "en": "Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process"
+      },
+      "authors": "Kai Dong, Rong Zhu, Wenjuan Liu",
+      "journal": "High Temperature Materials and Processes",
+      "citation": "Kai Dong, Rong Zhu, Wenjuan Liu. Simplified Calculation Kinetic Model for Solid Metal Melting and Decarburization Process. High Temperature Materials and Processes, Published online; DOI: 10.1515/htmp-2014-0076.",
+      "categories": [
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "https://doi.org/10.1515/htmp-2014-0076",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1300,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Simplified%20Calculation%20Kinetic%20Model%20for%20Solid%20Metal%20Melting%20and%20Decarburization%20Process%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-5",
+      "year": 2013,
+      "title": {
+        "zh": "Research on the Application of BOF cost control software system based on data Clustering and Feedback approach",
+        "en": "Research on the Application of BOF cost control software system based on data Clustering and Feedback approach"
+      },
+      "authors": "Dong Kai, Liu Wenjuan",
+      "journal": "Applied Mechanics and Materials",
+      "citation": "Dong Kai, Liu Wenjuan. Research on the Application of BOF cost control software system based on data Clustering and Feedback approach. Applied Mechanics and Materials, 2013, 422: 249–254.",
+      "categories": [
+        "converter"
+      ],
+      "personIds": [
+        "dong"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1310,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Research%20on%20the%20Application%20of%20BOF%20cost%20control%20software%20system%20based%20on%20data%20Clustering%20and%20Feedback%20approach%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong"
+      ]
+    },
+    {
+      "id": "dong-official-6",
+      "year": 2014,
+      "title": {
+        "zh": "LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究",
+        "en": "LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究"
+      },
+      "authors": "董凯，朱荣，刘润藻",
+      "journal": "北京科技大学学报",
+      "citation": "董凯，朱荣，刘润藻. LF炉底吹CO₂气体对钢液质量影响及透气砖侵蚀的研究. 北京科技大学学报, 2014, 36(S1): 226–229.",
+      "categories": [
+        "carbon",
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1320,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22LF%E7%82%89%E5%BA%95%E5%90%B9CO%E2%82%82%E6%B0%94%E4%BD%93%E5%AF%B9%E9%92%A2%E6%B6%B2%E8%B4%A8%E9%87%8F%E5%BD%B1%E5%93%8D%E5%8F%8A%E9%80%8F%E6%B0%94%E7%A0%96%E4%BE%B5%E8%9A%80%E7%9A%84%E7%A0%94%E7%A9%B6%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-7",
+      "year": 2014,
+      "title": {
+        "zh": "Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System",
+        "en": "Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System"
+      },
+      "authors": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong",
+      "journal": "Applied Mechanics and Materials",
+      "citation": "Dong Kai, Wu Long, Liu Wen-juan, Zhu Rong. Calculation on the Desulfurization Thermodynamic of CaO–Al₂O₃–SiO₂–TiO₂ Slag System. Applied Mechanics and Materials, 2014, 563: 57–61.",
+      "categories": [
+        "eaf"
+      ],
+      "personIds": [
+        "dong",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1330,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Calculation%20on%20the%20Desulfurization%20Thermodynamic%20of%20CaO%E2%80%93Al%E2%82%82O%E2%82%83%E2%80%93SiO%E2%82%82%E2%80%93TiO%E2%82%82%20Slag%20System%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "dong-official-8",
+      "year": 2014,
+      "title": {
+        "zh": "承钢钒铁炉底吹N₂水模型试验研究",
+        "en": "承钢钒铁炉底吹N₂水模型试验研究"
+      },
+      "authors": "董凯，刘润藻，王饶",
+      "journal": "北京科技大学学报",
+      "citation": "董凯，刘润藻，王饶. 承钢钒铁炉底吹N₂水模型试验研究. 北京科技大学学报, 2014, 36(S1): 222–225.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "dong"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1340,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22%E6%89%BF%E9%92%A2%E9%92%92%E9%93%81%E7%82%89%E5%BA%95%E5%90%B9N%E2%82%82%E6%B0%B4%E6%A8%A1%E5%9E%8B%E8%AF%95%E9%AA%8C%E7%A0%94%E7%A9%B6%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong"
+      ]
+    },
+    {
+      "id": "dong-official-9",
+      "year": 2014,
+      "title": {
+        "zh": "Experimental Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique",
+        "en": "Experimental Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique"
+      },
+      "authors": "Dong Kai",
+      "journal": "MS&T 2014",
+      "citation": "Dong Kai. Experimental Study on Indirect Measuring Technology of EAF Steelmaking Decarburization Rate by Off-gas Analysis Technique. MS&T 2014, 2014, Conference contribution.",
+      "categories": [
+        "eaf"
+      ],
+      "personIds": [
+        "dong"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1350,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Experimental%20Study%20on%20Indirect%20Measuring%20Technology%20of%20EAF%20Steelmaking%20Decarburization%20Rate%20by%20Off-gas%20Analysis%20Technique%22",
+      "peopleNames": [
+        "董凯",
+        "Kai Dong"
+      ]
+    },
+    {
+      "id": "zhao-official-1",
+      "year": 2020,
+      "title": {
+        "zh": "Effect of Environment Parameters on the Ablation of Hypersonic Missile Wing",
+        "en": "Effect of Environment Parameters on the Ablation of Hypersonic Missile Wing"
+      },
+      "authors": "Fei Zhao",
+      "journal": "Journal of Spacecraft and Rockets",
+      "citation": "Fei Zhao. Effect of Environment Parameters on the Ablation of Hypersonic Missile Wing. Journal of Spacecraft and Rockets, 2020, 57(1): 202–205.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "zhao-fei"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1360,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Effect%20of%20Environment%20Parameters%20on%20the%20Ablation%20of%20Hypersonic%20Missile%20Wing%22",
+      "peopleNames": [
+        "赵飞",
+        "Fei Zhao"
+      ]
+    },
+    {
+      "id": "zhao-official-2",
+      "year": 2017,
+      "title": {
+        "zh": "Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet",
+        "en": "Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet"
+      },
+      "authors": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Fei Zhao, Dongbai Sun, Rong Zhu, Lingzhi Yang. Effect of Shrouding Gas Parameters on Characteristics of Supersonic Coherent Jet. Metallurgical and Materials Transactions B, 2017, 48(3): 1807–1816.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "zhao-fei",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1370,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Effect%20of%20Shrouding%20Gas%20Parameters%20on%20Characteristics%20of%20Supersonic%20Coherent%20Jet%22",
+      "peopleNames": [
+        "赵飞",
+        "Fei Zhao",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "zhao-official-3",
+      "year": 2020,
+      "title": {
+        "zh": "Characteristics of a coherent jet enshrouded in a supersonic fuel gas",
+        "en": "Characteristics of a coherent jet enshrouded in a supersonic fuel gas"
+      },
+      "authors": "Fei Zhao",
+      "journal": "International Journal of Minerals, Metallurgy and Materials",
+      "citation": "Fei Zhao. Characteristics of a coherent jet enshrouded in a supersonic fuel gas. International Journal of Minerals, Metallurgy and Materials, 2020, 27(2): 173–180.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "zhao-fei"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1380,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Characteristics%20of%20a%20coherent%20jet%20enshrouded%20in%20a%20supersonic%20fuel%20gas%22",
+      "peopleNames": [
+        "赵飞",
+        "Fei Zhao"
+      ]
+    },
+    {
+      "id": "zhao-official-4",
+      "year": 2021,
+      "title": {
+        "zh": "Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures",
+        "en": "Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures"
+      },
+      "authors": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Fei Zhao, Fuhai Liu, Dongbai Sun, Rong Zhu, Kai Dong. Behaviors of Supersonic Oxygen Multi-jets with Various Preheating Temperatures. Metallurgical and Materials Transactions B, 2021, 52(4): 2626–2641.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "zhao-fei",
+        "liu-fuhai",
+        "zhu",
+        "dong"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1390,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Behaviors%20of%20Supersonic%20Oxygen%20Multi-jets%20with%20Various%20Preheating%20Temperatures%22",
+      "peopleNames": [
+        "赵飞",
+        "Fei Zhao",
+        "刘福海",
+        "Fuhai Liu",
+        "朱荣",
+        "Rong Zhu",
+        "董凯",
+        "Kai Dong"
+      ]
+    },
+    {
+      "id": "zhao-official-5",
+      "year": 2018,
+      "title": {
+        "zh": "不同伴随流条件下的集束射流流场特性",
+        "en": "不同伴随流条件下的集束射流流场特性"
+      },
+      "authors": "赵飞，孙冬柏，朱荣，杨凌志",
+      "journal": "中南大学学报（自然科学版）",
+      "citation": "赵飞，孙冬柏，朱荣，杨凌志. 不同伴随流条件下的集束射流流场特性. 中南大学学报（自然科学版）, 2018, (02): 282–289.",
+      "categories": [
+        "jets"
+      ],
+      "personIds": [
+        "zhao-fei",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1400,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22%E4%B8%8D%E5%90%8C%E4%BC%B4%E9%9A%8F%E6%B5%81%E6%9D%A1%E4%BB%B6%E4%B8%8B%E7%9A%84%E9%9B%86%E6%9D%9F%E5%B0%84%E6%B5%81%E6%B5%81%E5%9C%BA%E7%89%B9%E6%80%A7%22",
+      "peopleNames": [
+        "赵飞",
+        "Fei Zhao",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "wei-official-2020",
+      "year": 2020,
+      "title": {
+        "zh": "Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles",
+        "en": "Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles"
+      },
+      "authors": "Guangsheng Wei, Rong Zhu, et al.",
+      "journal": "Metallurgical and Materials Transactions B",
+      "citation": "Guangsheng Wei, Rong Zhu, et al. Simulation and Application of Submerged CO₂-O₂ Injection in Electric Arc Furnace Steelmaking: Modeling and Arrangement of Submerged nozzles. Metallurgical and Materials Transactions B, 2020, 51: 1101–1112.",
+      "categories": [
+        "eaf",
+        "carbon"
+      ],
+      "personIds": [
+        "wei",
+        "zhu"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 1410,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Simulation%20and%20Application%20of%20Submerged%20CO%E2%82%82-O%E2%82%82%20Injection%20in%20Electric%20Arc%20Furnace%20Steelmaking%3A%20Modeling%20and%20Arrangement%20of%20Submerged%20nozzles%22",
+      "peopleNames": [
+        "魏光升",
+        "Guangsheng Wei",
+        "朱荣",
+        "Rong Zhu"
+      ]
+    },
+    {
+      "id": "shen-official-1",
+      "year": 2025,
+      "title": {
+        "zh": "Separation of heavy metals from municipal solid waste incineration fly ash: A review",
+        "en": "Separation of heavy metals from municipal solid waste incineration fly ash: A review"
+      },
+      "authors": "Shen HL, Liu B, Lou BJ, et al.",
+      "journal": "Ecotoxicology and Environmental Safety",
+      "citation": "Shen HL, Liu B, Lou BJ, et al. Separation of heavy metals from municipal solid waste incineration fly ash: A review. Ecotoxicology and Environmental Safety, 2025, 299: 118363.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": true,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2000,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Separation%20of%20heavy%20metals%20from%20municipal%20solid%20waste%20incineration%20fly%20ash%3A%20A%20review%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-2",
+      "year": 2025,
+      "title": {
+        "zh": "Reduction of iron from red mud with aluminum dross to capture heavy metals from municipal solid waste incineration fly ash into alloy",
+        "en": "Reduction of iron from red mud with aluminum dross to capture heavy metals from municipal solid waste incineration fly ash into alloy"
+      },
+      "authors": "Shen HL, Lou BJ, Liu B, et al.",
+      "journal": "Journal of Environmental Chemical Engineering",
+      "citation": "Shen HL, Lou BJ, Liu B, et al. Reduction of iron from red mud with aluminum dross to capture heavy metals from municipal solid waste incineration fly ash into alloy. Journal of Environmental Chemical Engineering, 2025, 13(2): 115823.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2010,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Reduction%20of%20iron%20from%20red%20mud%20with%20aluminum%20dross%20to%20capture%20heavy%20metals%20from%20municipal%20solid%20waste%20incineration%20fly%20ash%20into%20alloy%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-3",
+      "year": 2024,
+      "title": {
+        "zh": "In-situ preparation of alumina-based cermet after reduction of iron oxide in red mud with aluminum dross",
+        "en": "In-situ preparation of alumina-based cermet after reduction of iron oxide in red mud with aluminum dross"
+      },
+      "authors": "Shen HL, Lou BJ, Liu B, et al.",
+      "journal": "Ceramics International",
+      "citation": "Shen HL, Lou BJ, Liu B, et al. In-situ preparation of alumina-based cermet after reduction of iron oxide in red mud with aluminum dross. Ceramics International, 2024, 50: 21630–21637.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2020,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22In-situ%20preparation%20of%20alumina-based%20cermet%20after%20reduction%20of%20iron%20oxide%20in%20red%20mud%20with%20aluminum%20dross%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-4",
+      "year": 2024,
+      "title": {
+        "zh": "Reduction of heavy metals in municipal solid waste incineration fly ash followed by making transparent glass",
+        "en": "Reduction of heavy metals in municipal solid waste incineration fly ash followed by making transparent glass"
+      },
+      "authors": "Shen HL, Lou BJ, Liu B, et al.",
+      "journal": "Waste Management",
+      "citation": "Shen HL, Lou BJ, Liu B, et al. Reduction of heavy metals in municipal solid waste incineration fly ash followed by making transparent glass. Waste Management, 2024, 183: 184–190.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2030,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Reduction%20of%20heavy%20metals%20in%20municipal%20solid%20waste%20incineration%20fly%20ash%20followed%20by%20making%20transparent%20glass%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-5",
+      "year": 2022,
+      "title": {
+        "zh": "Homogeneous reduction for heavy metals from pickling sludge with aluminum nitride from secondary aluminum dross in aluminosilicate melt ‘solution’ environment",
+        "en": "Homogeneous reduction for heavy metals from pickling sludge with aluminum nitride from secondary aluminum dross in aluminosilicate melt ‘solution’ environment"
+      },
+      "authors": "Shen HL, Liu B, Zhang JJ, et al.",
+      "journal": "Journal of Cleaner Production",
+      "citation": "Shen HL, Liu B, Zhang JJ, et al. Homogeneous reduction for heavy metals from pickling sludge with aluminum nitride from secondary aluminum dross in aluminosilicate melt ‘solution’ environment. Journal of Cleaner Production, 2022, 362: 132358.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2040,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Homogeneous%20reduction%20for%20heavy%20metals%20from%20pickling%20sludge%20with%20aluminum%20nitride%20from%20secondary%20aluminum%20dross%20in%20aluminosilicate%20melt%20%E2%80%98solution%E2%80%99%20environment%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-6",
+      "year": 2022,
+      "title": {
+        "zh": "Phase transition during nucleation process in calcium aluminate glass-ceramics manufactured from secondary aluminum dross",
+        "en": "Phase transition during nucleation process in calcium aluminate glass-ceramics manufactured from secondary aluminum dross"
+      },
+      "authors": "Shen HL, Liu B, Liu Y, et al.",
+      "journal": "Journal of Alloys and Compounds",
+      "citation": "Shen HL, Liu B, Liu Y, et al. Phase transition during nucleation process in calcium aluminate glass-ceramics manufactured from secondary aluminum dross. Journal of Alloys and Compounds, 2022, 911: 165010.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2050,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Phase%20transition%20during%20nucleation%20process%20in%20calcium%20aluminate%20glass-ceramics%20manufactured%20from%20secondary%20aluminum%20dross%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-7",
+      "year": 2021,
+      "title": {
+        "zh": "Reduction for heavy metals in pickling sludge with aluminum nitride in secondary aluminum dross by pyrometallurgy, followed by glass ceramics manufacture",
+        "en": "Reduction for heavy metals in pickling sludge with aluminum nitride in secondary aluminum dross by pyrometallurgy, followed by glass ceramics manufacture"
+      },
+      "authors": "Shen HL, Liu B, Shi ZS, et al.",
+      "journal": "Journal of Hazardous Materials",
+      "citation": "Shen HL, Liu B, Shi ZS, et al. Reduction for heavy metals in pickling sludge with aluminum nitride in secondary aluminum dross by pyrometallurgy, followed by glass ceramics manufacture. Journal of Hazardous Materials, 2021, 418: 126331.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2060,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Reduction%20for%20heavy%20metals%20in%20pickling%20sludge%20with%20aluminum%20nitride%20in%20secondary%20aluminum%20dross%20by%20pyrometallurgy%2C%20followed%20by%20glass%20ceramics%20manufacture%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-8",
+      "year": 2021,
+      "title": {
+        "zh": "Harmless disposal and resource utilization for secondary aluminum dross: A review",
+        "en": "Harmless disposal and resource utilization for secondary aluminum dross: A review"
+      },
+      "authors": "Shen HL, Liu B, Ekberg C, et al.",
+      "journal": "Science of The Total Environment",
+      "citation": "Shen HL, Liu B, Ekberg C, et al. Harmless disposal and resource utilization for secondary aluminum dross: A review. Science of The Total Environment, 2021, 760: 143968.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2070,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Harmless%20disposal%20and%20resource%20utilization%20for%20secondary%20aluminum%20dross%3A%20A%20review%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-9",
+      "year": 2024,
+      "title": {
+        "zh": "Recycling of secondary aluminum dross to make alumina by hydrometallurgy: A review",
+        "en": "Recycling of secondary aluminum dross to make alumina by hydrometallurgy: A review"
+      },
+      "authors": "Liu J, Zhang SG, Shen HL, et al.",
+      "journal": "Journal of Materials Research and Technology",
+      "citation": "Liu J, Zhang SG, Shen HL, et al. Recycling of secondary aluminum dross to make alumina by hydrometallurgy: A review. Journal of Materials Research and Technology, 2024, 32: 4234–4245.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2080,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Recycling%20of%20secondary%20aluminum%20dross%20to%20make%20alumina%20by%20hydrometallurgy%3A%20A%20review%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
+      ]
+    },
+    {
+      "id": "shen-official-10",
+      "year": 2023,
+      "title": {
+        "zh": "Recycling secondary aluminum dross to make building materials: A review",
+        "en": "Recycling secondary aluminum dross to make building materials: A review"
+      },
+      "authors": "Lou BJ, Shen HL, Liu B, et al.",
+      "journal": "Construction and Building Materials",
+      "citation": "Lou BJ, Shen HL, Liu B, et al. Recycling secondary aluminum dross to make building materials: A review. Construction and Building Materials, 2023, 409: 133989.",
+      "categories": [
+        "resources"
+      ],
+      "personIds": [
+        "shen-hanlin"
+      ],
+      "featured": false,
+      "cover": "",
+      "url": "",
+      "abstract": {
+        "zh": "",
+        "en": ""
+      },
+      "_order": 2090,
+      "scholarUrl": "https://scholar.google.com/scholar?q=%22Recycling%20secondary%20aluminum%20dross%20to%20make%20building%20materials%3A%20A%20review%22",
+      "peopleNames": [
+        "沈汉林",
+        "Hanlin Shen"
       ]
     }
   ]
