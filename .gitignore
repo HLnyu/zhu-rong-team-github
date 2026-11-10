@@ -1,4 +1,5 @@
 node_modules/
+.wrangler/
 *.zip
 *.tar.gz
 .DS_Store

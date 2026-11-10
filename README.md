@@ -16,6 +16,26 @@
 
 ## 本地预览
 
+### Cloudflare Workers 从 GitHub 发布
+
+如果使用 Cloudflare 的 Workers Git 仓库部署界面，仓库根目录已包含 `wrangler.json`，静态资源目录设为 `./dist`。界面填写：
+
+| 设置 | 值 |
+| --- | --- |
+| 项目根目录 | 仓库根目录 `/` |
+| 构建命令 | `npm run build` |
+| 部署命令 | `npx wrangler deploy` |
+| 预览命令 | `npx wrangler preview` |
+| 启用预览构建 | 可保持开启 |
+
+Cloudflare Worker 项目名称应与 `wrangler.json` 的 `name` 一致，默认是 `zhu-rong-team-github`；如使用其他名称，同时修改该字段。`dist` 是静态输出目录，不是项目根目录。
+
+先把新增的 `wrangler.json` 和其他改动提交、推送到连接的 GitHub 仓库，再在 Cloudflare 开始部署。此配置不需要 Worker JavaScript 入口文件。
+
+参考：[Cloudflare 构建配置](https://developers.cloudflare.com/workers/ci-cd/builds/configuration/)、[静态资源配置](https://developers.cloudflare.com/workers/static-assets/binding/)。GitHub Pages 和 Cloudflare Workers 是两种可选的发布方式。
+
+### 在本机运行
+
 安装 Node.js 后，在本文件夹运行：
 
 ```powershell

@@ -38,7 +38,7 @@ function collect(relative) {
     }
   } else if (stat.isFile()) files.push(relative);
 }
-for (const entry of ['dist', '.github', '.gitignore', 'README.md', 'package.json', 'build-pages.cjs', 'server.cjs', 'export-github.cjs', 'AGENTS.md']) collect(entry);
+for (const entry of ['dist', '.github', '.gitignore', 'README.md', 'package.json', 'build-pages.cjs', 'server.cjs', 'export-github.cjs', 'AGENTS.md', 'wrangler.json']) collect(entry);
 for (const relative of files) {
   const target = path.join(destination, relative);
   fs.mkdirSync(path.dirname(target), { recursive: true });
