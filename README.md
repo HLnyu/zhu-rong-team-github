@@ -4,6 +4,19 @@
 
 ## 论文检索与人员展示
 
+论文标题优先打开“DOI或链接”列中的原文；未填写时自动打开 Google Scholar 的标题检索。每条记录都有明确的 Google Scholar 入口；导师履历和成员论文面板同步使用相同外链。Google Scholar 链接是检索入口，不代表已核验到唯一论文记录。
+
+学生及毕业生各预填两张演示卡片，编号以 `demo-` 开头，页面明确标注“演示照片 · 非真实成员”。照片来自 Unsplash 的公开样例，不对应团队真实人员。正式使用时可将这四行设为隐藏或删除，然后添加真实人员行、照片和正式编号。
+
+首页 Logo 与链接来自绿色低碳钢铁冶金全国重点实验室官网 `https://sklam.ustb.edu.cn/`。白色透明 Logo 保留官网原图，使用深色背景展示。
+
+新增图片来源：
+- `assets/lab-official-logo.png`：`https://sklam.ustb.edu.cn/images/1560eb3f9a834667b186c9f481e5e460.png`
+- `assets/demo-student-01.jpg`：`https://images.unsplash.com/photo-1506794778202-cad84cf45f1d`
+- `assets/demo-student-02.jpg`：`https://images.unsplash.com/photo-1534528741775-53994a69daeb`
+- `assets/demo-alumni-01.jpg`：`https://images.unsplash.com/photo-1500648767791-00dcc994a43e`
+- `assets/demo-alumni-02.jpg`：`https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91`
+
 `publications.html` 是独立论文库，参考 Sacanna Lab 的精选/完整列表、主题筛选、关键词检索和人员关联方式，另有年份、期刊、成员筛选。支持多个筛选条件组合，链接中的筛选条件可以复制分享。初始整理18项代表性论文与著作，不等同团队210余篇完整目录。封面和DOI有真实资料后再添加。
 
 在内容管理表的 **论文库** 中新增或修改论文；**论文分区** 管理预设六大研究方向。分区编号及关联人员编号可用英文分号连接多个编号，如 `carbon;converter`、`zhu;dong`。精选填“是”。论文库同时更新人员卡片展开内容和导师履历中的论文列表，无需重复录入。**学术条目** 继续管理专利、科研项目及个人奖项。
